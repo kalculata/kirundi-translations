@@ -1,11 +1,343 @@
 [
   {
+    "rn": " amajambo bakoresha muri poritike",
+    "en": "POLITICAL TERMNOLOGY"
+  },
+  {
+    "rn": " Bigenda gute? ",
+    "en": "How are you going?"
+  },
+  {
+    "rn": " Gahoro gahoro,ndahendahenda",
+    "en": "I'm so-so"
+  },
+  {
+    "rn": " Inyishu zimwe zimwe",
+    "en": "Some responses"
+  },
+  {
+    "rn": " Ku muntu uruta",
+    "en": "To your inferior you can say"
+  },
+  {
+    "rn": " Kubaza iyo naka agiye",
+    "en": "Asking direction where to"
+  },
+  {
+    "rn": " kubaza iyo umuntu avuye",
+    "en": "Asking where someone comes from"
+  },
+  {
+    "rn": " Kumuntu akuruta ushobora kuvuga",
+    "en": "To your superior you can say"
+  },
+  {
+    "rn": " Mba mu Burundi",
+    "en": "I dwell in BURUNDI"
+  },
+  {
+    "rn": " Mba mu Bwiza",
+    "en": "I live at Bwiza"
+  },
+  {
+    "rn": " Mba mu Kanyosha",
+    "en": "I stay at Kanyosha"
+  },
+  {
+    "rn": " Mfashe iya mu CIBITOKE",
+    "en": "I'm aiming to CIBITOKE"
+  },
+  {
+    "rn": " Mfise imyaka 27",
+    "en": "I am 27 years old"
+  },
+  {
+    "rn": " Mugihe ibintu bitameze neza canke ngo bibe bibi",
+    "en": "Neither good nor bad condition"
+  },
+  {
+    "rn": " Mvuye I Ngozi",
+    "en": "I from NGOZI"
+  },
+  {
+    "rn": " Mvuye Mwi Rohero",
+    "en": "I'm coming from Rohero"
+  },
+  {
+    "rn": " Mwiriwe",
+    "en": "Good evening"
+  },
+  {
+    "rn": " Mwombwira izina ryanyu?",
+    "en": "Could you tell me your name?"
+  },
+  {
+    "rn": " Mwuye I Bujumbura",
+    "en": "I come from Bujumbura"
+  },
+  {
+    "rn": " Mwuye ku kazi",
+    "en": "I back from work"
+  },
+  {
+    "rn": " Natse indaro I Kiriri",
+    "en": "I hang out at Kiriri"
+  },
+  {
+    "rn": " Navukiye mu CIBITOKE",
+    "en": "I was born in CIBITOKE"
+  },
+  {
+    "rn": " Navutse mu 1985",
+    "en": "I was born in 1985"
+  },
+  {
+    "rn": " Ndatahije",
+    "en": "Greeting to"
+  },
+  {
+    "rn": " Ndi umudandaza",
+    "en": "I'm a trader "
+  },
+  {
+    "rn": " Ndi umuganga",
+    "en": "I'm a doctor "
+  },
+  {
+    "rn": " Ndi umusirikare",
+    "en": "I'm a soldier "
+  },
+  {
+    "rn": " Ndi umwigisha",
+    "en": "I'm a preacher"
+  },
+  {
+    "rn": " Nerekereje Kuruhagarika",
+    "en": "I'm heading for RUHARIKA"
+  },
+  {
+    "rn": " Ngiye kuraba isanamu",
+    "en": "I'm going to the movie"
+  },
+  {
+    "rn": " Ngiye mugisagara",
+    "en": "I'm leading to town"
+  },
+  {
+    "rn": " Ni gute?",
+    "en": "What's up?"
+  },
+  {
+    "rn": " Ni hutiye gusenga",
+    "en": "I'm in hurry to church"
+  },
+  {
+    "rn": " Ni vyiza",
+    "en": "I'm OK "
+  },
+  {
+    "rn": " Nitwa MAKOBORA",
+    "en": "My name is MAKOBORA"
+  },
+  {
+    "rn": " Nitwa MUGISHA",
+    "en": "I'm MUGISHA"
+  },
+  {
+    "rn": " Nitwa NIKIZA Mariko",
+    "en": "I'm called NIKIZA Mark"
+  },
+  {
+    "rn": " Nkubitiye mu NYAKABIGA",
+    "en": "To NYAKABIGA"
+  },
+  {
+    "rn": " Nsimbiye  mu KININDO",
+    "en": "Up to KININDO"
+  },
+  {
+    "rn": " Ntacobitwaye, nitwa Ciza",
+    "en": "Don't worry, my name is CIZA"
+  },
+  {
+    "rn": " Ntahiriza",
+    "en": "Give love to"
+  },
+  {
+    "rn": " Ntakigenda",
+    "en": "Nothing goes"
+  },
+  {
+    "rn": " Ntangorane, nitwa NIMUBONA",
+    "en": "Sure, my name is NIMUBONA"
+  },
+  {
+    "rn": " Nyarukiye ku Nteganya bizoza kw'ibanki",
+    "en": "I'm dashing to the bank"
+  },
+  {
+    "rn": " Nyarukiye kw' Isoko",
+    "en": "I'm rushing to the market"
+  },
+  {
+    "rn": " Uba he?",
+    "en": "Where do you live?"
+  },
+  {
+    "rn": " Ufise imyaka ingahe?",
+    "en": "How old are you?"
+  },
+  {
+    "rn": " Ugiye he?",
+    "en": "Where are you going to?"
+  },
+  {
+    "rn": " uko batasha",
+    "en": "How to send greetings"
+  },
+  {
+    "rn": " Ukora iki mu buzima?",
+    "en": "What do you do in your life?"
+  },
+  {
+    "rn": " Ukora iki?",
+    "en": "What's your occupation?"
+  },
+  {
+    "rn": " Ukubaza ibijanye n'igikorwa",
+    "en": "Asking about occupation"
+  },
+  {
+    "rn": " ukunguruza abantu n'ibintu",
+    "en": "TRANSPORT"
+  },
+  {
+    "rn": " Ukuvuga ivyo ukunda n'ivyo udakunda",
+    "en": "TALKING ABOUT LIKES AND DISLIKES IN ENGLISH "
+  },
+  {
+    "rn": " Umuhamagaro wawe ni uwuhe?",
+    "en": "What is your calling?"
+  },
+  {
+    "rn": " Urampere intasho umugenzi wanje BARAKA.",
+    "en": "Give my best regards to my friend BARAKA"
+  },
+  {
+    "rn": " Urandamukirize",
+    "en": "Say hello to"
+  },
+  {
+    "rn": " Urandamukirize Yohana",
+    "en": "Greetings to John"
+  },
+  {
+    "rn": " Urantahirize",
+    "en": "Give my best regards to"
+  },
+  {
+    "rn": " Urantahirize abavyeyi",
+    "en": "Give love to my parents"
+  },
+  {
+    "rn": " Urantahirize marume",
+    "en": "Say hello to my uncle"
+  },
+  {
+    "rn": " Uriko uja he?",
+    "en": "Where are departing?"
+  },
+  {
+    "rn": " Uriko unyarukira he?",
+    "en": "Where do you hurry up to?"
+  },
+  {
+    "rn": " Uroye he?",
+    "en": "Where are you heading for?"
+  },
+  {
+    "rn": " uturorero",
+    "en": "Examples given"
+  },
+  {
+    "rn": " vuga izina ryawe",
+    "en": "Your name please! "
+  },
+  {
+    "rn": " Vyose vyanse,ntakigenda",
+    "en": "Everything goes wrong"
+  },
+  {
+    "rn": " Watse indaro he?",
+    "en": "Where do you hang out? "
+  },
+  {
+    "rn": " Wavukiye he?",
+    "en": "Where were you born?"
+  },
+  {
+    "rn": " Wavutse ryari?",
+    "en": "When were you born?"
+  },
+  {
+    "rn": " Werekeje he?",
+    "en": "Where are you aiming?"
+  },
+  {
+    "rn": " Wihutira he?",
+    "en": "Where are you in hurry to?"
+  },
+  {
+    "rn": "aha na he?",
+    "en": "Where to?"
+  },
+  {
+    "rn": "Aka kaganuke ni rwawe",
+    "en": "This is for you."
+  },
+  {
     "rn": "akayabu",
     "en": ""
   },
   {
+    "rn": "Akazina kanyu",
+    "en": "Please, Your Name! "
+  },
+  {
+    "rn": "amagara n'indwara",
+    "en": "HEALTH AND SICKNESS"
+  },
+  {
+    "rn": "Amajambo nkenerwa",
+    "en": "SPECIAL KEYWORDS"
+  },
+  {
+    "rn": "Amakuru maki ?",
+    "en": "How do you do ?"
+  },
+  {
+    "rn": "Amakuru maki?",
+    "en": "How are you? "
+  },
+  {
+    "rn": "Arakunda cane ishokora",
+    "en": "She's fond of chocolate."
+  },
+  {
+    "rn": "Arakunda kuja kwi senema.",
+    "en": "He quite likes going to the cinema."
+  },
+  {
+    "rn": "Aranka gucerwa",
+    "en": "He detests being late."
+  },
+  {
     "rn": "babika arakina na karabaye",
     "en": ""
+  },
+  {
+    "rn": "Bagutazira nde?",
+    "en": "What's your given name?"
   },
   {
     "rn": "bamire na banuma bagiye gukora",
@@ -32,6 +364,30 @@
     "en": ""
   },
   {
+    "rn": "Bigenda gute?",
+    "en": "How are you doing?"
+  },
+  {
+    "rn": "Bigenda gute? ",
+    "en": "How is it going? "
+  },
+  {
+    "rn": "Bimeze gute?",
+    "en": "How are things? "
+  },
+  {
+    "rn": "Birahimbaye, murakoze",
+    "en": "It's lovely, thank you!"
+  },
+  {
+    "rn": "Bite?",
+    "en": "Hello"
+  },
+  {
+    "rn": "Buke buke,ndacumbagiza ",
+    "en": "I'm fifty-fifty"
+  },
+  {
     "rn": "buname agiye kuvoma",
     "en": ""
   },
@@ -52,8 +408,68 @@
     "en": ""
   },
   {
+    "rn": "Guhana isango",
+    "en": "MAKING APPOINTMENTS"
+  },
+  {
+    "rn": "gusaba ikintu mucongereza ntibisaba kurinda kwimena umutwe. Wame wibuka amajambo amwamwe bakoresha, bizokworohereza cane.",
+    "en": "Asking for things in English doesn't need to be stressful. Just remember some key phrases, and you'll be able to deal with most situations smoothly and confidently."
+  },
+  {
+    "rn": "gusaba ikintu runaka",
+    "en": "Asking something"
+  },
+  {
+    "rn": "gushikiriza umubabaro",
+    "en": "HOW TO EXPRESS SHOCK IN ENGLISH"
+  },
+  {
+    "rn": "Gutanga no kwakira ingabire",
+    "en": "GIVING AND RECEIVING PRESENTS IN ENGLISH"
+  },
+  {
     "rn": "i muhira hariho akayabu gatoyi. kari n'utuguru tubiri n'utuboko tubiri. kari n'amabara yera n'ayirabura. karakina n'utubeba dutoduto, ariko iyo gahuye n'ibibeba bininibinini, karabibona kagatuna, kakabimira. iyo hari abana batoyi karakina na bo. karabirukana, kakabaharura ku maboko no ku maguru. bano bana hari aho barira ariko bakaguma bakina na ko. iyo data agiye gukama, karamukurikira. aragaha amata, kakayagotomera.",
     "en": ""
+  },
+  {
+    "rn": "ibiharuro, ibitigiri",
+    "en": "NUMBERS"
+  },
+  {
+    "rn": "ibihimba vy'umubiri",
+    "en": "PARTS OF THE BODY"
+  },
+  {
+    "rn": "ibikoko",
+    "en": "ANIMALS"
+  },
+  {
+    "rn": "ibikoko vy'ibitungano",
+    "en": "PETS ANIMALS"
+  },
+  {
+    "rn": "ibikoko vyo mw'ishamba",
+    "en": "WILD ANIMALS"
+  },
+  {
+    "rn": "ibikoresho vyo munzu",
+    "en": "HOUSE-HOLD ARTICLES AND FORNITURES"
+  },
+  {
+    "rn": "ibindi bijanye n'ibikoko",
+    "en": "MORE ABOUT ANIMALS"
+  },
+  {
+    "rn": "ibinyobwa",
+    "en": "DRINKS"
+  },
+  {
+    "rn": "ibirimwo",
+    "en": "CONTENTS"
+  },
+  {
+    "rn": "igisirikare",
+    "en": "THE ARMY"
   },
   {
     "rn": "ikawa",
@@ -72,20 +488,340 @@
     "en": "kirundi is a language accepted by law and is used in burundi"
   },
   {
+    "rn": "IKIYAGO CA NIKIZA NA JANE BAHWANYE",
+    "en": "NIKIZA AND JENNY MEET"
+  },
+  {
     "rn": "Imbwa",
     "en": "Dog"
+  },
+  {
+    "rn": "imfungurwa",
+    "en": "FOODS"
+  },
+  {
+    "rn": "iminsi n'amezi",
+    "en": "DAYS AND MONTHS"
+  },
+  {
+    "rn": "indamukanyo",
+    "en": "GREETINGS"
+  },
+  {
+    "rn": "indamutso z'urupfasoni",
+    "en": "Formal greetings"
+  },
+  {
+    "rn": "indamutso zikoreshwa n'abangana,abamenyeranye na cane cane abakiri bato",
+    "en": "Informal greetings"
+  },
+  {
+    "rn": "indome mu congereza",
+    "en": "ENGLISH ALPHABETS"
+  },
+  {
+    "rn": "Ingene basaba canke uko babaza ibintu runaka mucongereza",
+    "en": "HOW TO ASK FOR THINGS IN ENGLISH "
+  },
+  {
+    "rn": "Ingene basaba ibintu",
+    "en": "HOW TO ASK FOR THINGS"
   },
   {
     "rn": "ingo",
     "en": "come"
   },
   {
+    "rn": "Inyishu",
+    "en": "Responses"
+  },
+  {
     "rn": "inzu",
     "en": "house"
   },
   {
+    "rn": "ivyambarwa impuzu n'ibirato",
+    "en": "DRESSING CLOTHES AND SHOES "
+  },
+  {
+    "rn": "Iyo wihuta",
+    "en": "When in hurry"
+  },
+  {
+    "rn": "Karasanzwe, yamara ndazi ko kakunezera",
+    "en": "It's only something small, but I hope you'll like it."
+  },
+  {
+    "rn": "kubaza",
+    "en": "ASKING"
+  },
+  {
+    "rn": "Kubaza",
+    "en": "Lesson three"
+  },
+  {
+    "rn": "kubaza aho umuntu aba",
+    "en": "Asking where someone lives"
+  },
+  {
+    "rn": "kubaza iyumuntu agiye",
+    "en": "Asking direction where to"
+  },
+  {
+    "rn": "kubaza uko umuntu yitwa",
+    "en": "Asking how someone is called"
+  },
+  {
+    "rn": "Kuri izina n'akanyamuneza ntangere",
+    "en": "To name with love from name"
+  },
+  {
+    "rn": "kuri Niyonkuru Samuel n'akanyamuneza ntangere bivuye kwa Nikiza Mark",
+    "en": "To Niyonkuru Samuel with love from Nikiza Mark"
+  },
+  {
+    "rn": "kuwa gatanu wokubera mwiza?",
+    "en": "Would Friday suit you?"
+  },
+  {
     "rn": "mama afise isuka ku rutugu",
     "en": ""
+  },
+  {
+    "rn": "Mbega umutima mwiza!",
+    "en": "How kind of you!"
+  },
+  {
+    "rn": "mu bihe vyiza",
+    "en": "In good condition"
+  },
+  {
+    "rn": "Murakoze cane! Birahimbaye/biratangaje/ nivyiza cane",
+    "en": "Thank you so much! It's lovely / fantastic / wonderful."
+  },
+  {
+    "rn": "Murantunga gato, hari akazu ku buriro ngaha hafi?",
+    "en": "Excuse me for a bit could you tell me if there's a restaurant near here?"
+  },
+  {
+    "rn": "Murantunga mupfaso, woba ufise ikaramu yanje aho?",
+    "en": "Excuse me Madam; do you have my pen on you?"
+  },
+  {
+    "rn": "Murantunga, iyi yoba iriyo nzira ija ku biro vya posita?",
+    "en": "Excuse me, is this the right way for the Post Office?"
+  },
+  {
+    "rn": "Murantunga, murandabire umuzigo wanje.",
+    "en": "Excuse me, would you mind keeping an eye on my luggage?"
+  },
+  {
+    "rn": "Murantunga, mwonyemerera kongura ideni?",
+    "en": "excuse me, do you accept me to buy it on credit?"
+  },
+  {
+    "rn": "Murantunga, nibazako mwokwegeza imodoka yanyu inyuma gato",
+    "en": "Excuse me; i wonder if you could move your car back a little."
+  },
+  {
+    "rn": "Murantunga; mwomenyera Umuyobozi ari mu biro?",
+    "en": "Excuse me; do you know if the headmaster is in the office?"
+  },
+  {
+    "rn": "Mwaramutse! Mwompa inomero yanyu ya terefone?",
+    "en": "Good morning! Could you give your phone number please?"
+  },
+  {
+    "rn": "Mwiriwe! Mwondangira inzira ija mu Buyenzi?",
+    "en": "Good evening! Can you show me the way to Buyenzi?"
+  },
+  {
+    "rn": "Mwombwira izina ryanyu?",
+    "en": "Would mind telling me your name?"
+  },
+  {
+    "rn": "Mwondangira Mariko?",
+    "en": "Can you get me Mr. Mark please?"
+  },
+  {
+    "rn": "Mwonzanira igikombe c'icayi?",
+    "en": "Could I have a cup of tea please?"
+  },
+  {
+    "rn": "Namye ndacipfuza!",
+    "en": "It's something I've always wanted!"
+  },
+  {
+    "rn": "ndagize bwakeye",
+    "en": "Good morning!"
+  },
+  {
+    "rn": "Ndagize mwiriwe",
+    "en": "Good afternoon"
+  },
+  {
+    "rn": "Ndakomeye ",
+    "en": "I' m fine "
+  },
+  {
+    "rn": "Ndakunda gufungura ifi.",
+    "en": "I love eating fish."
+  },
+  {
+    "rn": "Ndakunda guteka",
+    "en": "I like cooking."
+  },
+  {
+    "rn": "ndakunda kuririmba",
+    "en": "I adore singing."
+  },
+  {
+    "rn": "Ndakunda kwoga cane",
+    "en": "I like swimming very much."
+  },
+  {
+    "rn": "Ndanka gutakaza umwanya",
+    "en": "I dislike wasting time."
+  },
+  {
+    "rn": "ndashima",
+    "en": "I'm in form"
+  },
+  {
+    "rn": "Ngiye ku nzu y'ingenzi Gateri Guest House",
+    "en": "I'm departing to Gateri Guest House"
+  },
+  {
+    "rn": "Ni agahengwe",
+    "en": "I'm just ok"
+  },
+  {
+    "rn": "Ni gute?",
+    "en": "How are you keeping? "
+  },
+  {
+    "rn": "Ni vyiza",
+    "en": "I'm so cool "
+  },
+  {
+    "rn": "Nimba wanka ikintu koko",
+    "en": "If you really dislike something"
+  },
+  {
+    "rn": "Nisawa",
+    "en": "I'm just fine"
+  },
+  {
+    "rn": "Nivyiza",
+    "en": "I'm better and better"
+  },
+  {
+    "rn": "niyumviyeko uzogakenera kuri noweri.",
+    "en": "I thought you might like this for Christmas day."
+  },
+  {
+    "rn": "Noshobora kuronka agasabune?",
+    "en": "Can I have a soap please?"
+  },
+  {
+    "rn": "ntaco bintwara gukora ibikorwa vyo munzu",
+    "en": "I don't mind doing the housework."
+  },
+  {
+    "rn": "Ntakunda gukinjika kenshi",
+    "en": "She doesn't like cooking very much."
+  },
+  {
+    "rn": "Ntashobora kwihanganira gukinjikira mu gikoni gicafuye",
+    "en": "She can't bear cooking in a dirty kitchen."
+  },
+  {
+    "rn": "Ntashobora kwihanganira shebuja",
+    "en": "He can't stand his boss."
+  },
+  {
+    "rn": "Ntibimuhimbara kwma akorera jardin",
+    "en": "He's not very fond of doing the gardening."
+  },
+  {
+    "rn": "Sinidoga",
+    "en": "I mustn't grumble"
+  },
+  {
+    "rn": "Sinkunda inkino na gato",
+    "en": "I don't like sport at all."
+  },
+  {
+    "rn": "Sinkunda isoko kijambere iremamwo isinzi ry'abantu",
+    "en": "I hate crowded supermarkets."
+  },
+  {
+    "rn": "Tukwipfurije pasika nziza",
+    "en": "With best wishes for a happy Christmas"
+  },
+  {
+    "rn": "Turashobora kubonana kuwa 16?",
+    "en": "Can we meet on the 16th?"
+  },
+  {
+    "rn": "Ubona gute tubonanye kuwa3?",
+    "en": "How does the 3rd sound to you?"
+  },
+  {
+    "rn": "Ubona gute tubonanye mundwi iza?",
+    "en": "What about sometime next week?"
+  },
+  {
+    "rn": "Ubona kuwa gatatu uza wokworohereza?",
+    "en": "Is next Tuesday convenient for you?"
+  },
+  {
+    "rn": "ubuzi",
+    "en": "OCCUPATIONS"
+  },
+  {
+    "rn": "Ubuzima bw'ibwifashe gute?",
+    "en": "How is life treating you? "
+  },
+  {
+    "rn": "Ugusaba gufashwa gukora ikintu",
+    "en": "MAKING REQUESTS"
+  },
+  {
+    "rn": "Ugushikirilza akakubakiye",
+    "en": "COMPLAINING IN ENGLISH"
+  },
+  {
+    "rn": "Ugutanga intererano",
+    "en": "MAKING OFFERS"
+  },
+  {
+    "rn": "Ugutanga ubutumire",
+    "en": "MAKING INVITATIONS"
+  },
+  {
+    "rn": "Uje uva he?",
+    "en": "Where do you back from?"
+  },
+  {
+    "rn": "Ujejwe iki?",
+    "en": "What are you in charge of? "
+  },
+  {
+    "rn": "Uko bavuga ibijanye n'indwara",
+    "en": "HOW TO TALK ABOUT ILLNESS"
+  },
+  {
+    "rn": "Ukora iki?",
+    "en": "What is your business?"
+  },
+  {
+    "rn": "Ukubaza aho umuntu yavukiye, igihe yavukiyeko hamwe n'imyaka afise",
+    "en": "Asking where someone was born, when he was born and about the age"
+  },
+  {
+    "rn": "Ukubitiye he?",
+    "en": "Where up?"
   },
   {
     "rn": "Umuhoro",
@@ -96,7 +832,63 @@
     "en": "The Fire"
   },
   {
+    "rn": "umuryango",
+    "en": "THE FAMILY"
+  },
+  {
     "rn": "Umusi mwiza",
     "en": "A good day"
+  },
+  {
+    "rn": "umwanya, amasaha n'amatariki",
+    "en": "TIME AND DATE"
+  },
+  {
+    "rn": "Urakomeye?",
+    "en": "Are you fit? "
+  },
+  {
+    "rn": "urakoze cane",
+    "en": "Thank you so much!"
+  },
+  {
+    "rn": "uriko uva he?",
+    "en": "Where are you coming from"
+  },
+  {
+    "rn": "Uriko wihutira he?",
+    "en": "Where are dashing?"
+  },
+  {
+    "rn": "urudandazwa",
+    "en": "TRADING"
+  },
+  {
+    "rn": "Uvuga amaki?",
+    "en": "How do you say? "
+  },
+  {
+    "rn": "Uvuye he?",
+    "en": "Where do you come from?"
+  },
+  {
+    "rn": "Vyose bigenda neza",
+    "en": "Everything goes well"
+  },
+  {
+    "rn": "Witwa nde?",
+    "en": "How are you called? "
+  },
+  {
+    "rn": "woba ufise akanya kuwa 17?",
+    "en": "Are you available on the 17th?"
+  },
+  {
+    "rn": "Woba ufise akanya mu ndwi iza?",
+    "en": "Are you free next week?"
+  },
+  {
+    "rn": "Yemwe gaye, mbega ingabire isize ubwenge",
+    "en": "Wow! What a thoughtful present!"
   }
 ]
