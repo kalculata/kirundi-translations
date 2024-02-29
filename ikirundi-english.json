@@ -412,6 +412,14 @@
     "en": "SPECIAL KEYWORDS"
   },
   {
+    "rn": "amajana abiri",
+    "en": "Two hundred"
+  },
+  {
+    "rn": "amajana abiri na rimwe",
+    "en": "Two hundred one"
+  },
+  {
     "rn": "Amakuru maki ?",
     "en": "How do you do ?"
   },
@@ -496,6 +504,10 @@
     "en": "What's your given name?"
   },
   {
+    "rn": "bakoresha amajambo nka",
+    "en": "They say things like"
+  },
+  {
     "rn": "bamire na banuma bagiye gukora",
     "en": ""
   },
@@ -520,6 +532,10 @@
     "en": ""
   },
   {
+    "rn": "bibiri",
+    "en": "Two"
+  },
+  {
     "rn": "Bigenda gute?",
     "en": "How are you doing?"
   },
@@ -532,12 +548,36 @@
     "en": "How are things? "
   },
   {
+    "rn": "bine",
+    "en": "Four"
+  },
+  {
+    "rn": "birababaje,reka ndarungika uwugufasha",
+    "en": "or Sorry to hear that  I'll send someone up"
+  },
+  {
     "rn": "Birahimbaye, murakoze",
     "en": "It's lovely, thank you!"
   },
   {
     "rn": "biraryoshe",
     "en": "It tastes good"
+  },
+  {
+    "rn": "birshoboka ko?",
+    "en": "Can I ?"
+  },
+  {
+    "rn": "bitandatu",
+    "en": "Six"
+  },
+  {
+    "rn": "bitanu",
+    "en": "Five"
+  },
+  {
+    "rn": "bitatu",
+    "en": "Three"
   },
   {
     "rn": "Bite?",
@@ -576,8 +616,20 @@
     "en": ""
   },
   {
+    "rn": "Ego woba ugize neza cane",
+    "en": "Yes please. That would be very kind of you."
+  },
+  {
+    "rn": "Ego,vyoba vyiza kurusha",
+    "en": "Yes please, that would be lovely. Or, Yes please, I'd love one."
+  },
+  {
     "rn": "Egome, kuwa kane ntakibazo.",
     "en": "Yes, Thursday is fine."
+  },
+  {
+    "rn": "Egome,nkeneye kumenya umwanya gari ya moshi igirako",
+    "en": "Yes please. I'd like to know what time the train leaves"
   },
   {
     "rn": "ejo hahise",
@@ -632,6 +684,14 @@
     "en": "To behead"
   },
   {
+    "rn": "gucererwa",
+    "en": "Be late"
+  },
+  {
+    "rn": "gucira abantu mw'ijambo kugira ubabaze.",
+    "en": "Interrupting people to ask them for something"
+  },
+  {
     "rn": "gufungura",
     "en": "To eat"
   },
@@ -646,6 +706,10 @@
   {
     "rn": "guhekenya",
     "en": "To chew"
+  },
+  {
+    "rn": "Guhindura Isango",
+    "en": "Changing the arrangement"
   },
   {
     "rn": "gukira",
@@ -664,6 +728,10 @@
     "en": "To weigh"
   },
   {
+    "rn": "gusaba gufashwa gukora ikintu( gusaba agacumu k'ubumwe)",
+    "en": "MAKING REQUESTS"
+  },
+  {
     "rn": "gusaba ikintu mucongereza ntibisaba kurinda kwimena umutwe. Wame wibuka amajambo amwamwe bakoresha, bizokworohereza cane.",
     "en": "Asking for things in English doesn't need to be stressful. Just remember some key phrases, and you'll be able to deal with most situations smoothly and confidently."
   },
@@ -672,12 +740,24 @@
     "en": "Asking something"
   },
   {
+    "rn": "Gusaba kubonana",
+    "en": "Asking to meet"
+  },
+  {
+    "rn": "Gushikiriza canke guhitamwo uwundi musi",
+    "en": "Suggesting a different date"
+  },
+  {
     "rn": "gushikiriza umubabaro",
     "en": "HOW TO EXPRESS SHOCK IN ENGLISH"
   },
   {
     "rn": "gushira umukono ku masezerano y'amahoro",
     "en": "To sign peace agreement"
+  },
+  {
+    "rn": "gutanga inyishu y'i ngabire canke y'icipfuzo ca naka",
+    "en": "Responding to offers"
   },
   {
     "rn": "Gutanga no kwakira ingabire",
@@ -728,8 +808,20 @@
     "en": "Ah, Wednesday is going to be a little difficult. I'd much prefer Friday, if that's alright with you."
   },
   {
+    "rn": "Hari amajambo menshi yogukoresha kugirango werekane uko ukunda canke wanka ikintu.",
+    "en": "There's a whole range of English expressions you can use to talk about how much you like or dislike something."
+  },
+  {
     "rn": "Harico uzoba uriko urakora mu ndwi iza?",
     "en": "Are you doing anything next weekend?"
+  },
+  {
+    "rn": "harico vyogutwara nakije insusuruzi?",
+    "en": "Do you mind if I turn up the heating?"
+  },
+  {
+    "rn": "harico vyogutwara unyugururiye urugi?",
+    "en": "Would you mind opening the door for me, please?"
   },
   {
     "rn": "Harintambamyi ishitse mu mwanya kubwivyo ntibikunda ko tubonana inyuma ya sasita. Duhane irindi sango?",
@@ -772,6 +864,10 @@
     "en": "Buttocks"
   },
   {
+    "rn": "ibicu",
+    "en": "The sky"
+  },
+  {
     "rn": "ibidandazwa",
     "en": "Goods"
   },
@@ -788,8 +884,16 @@
     "en": "NUMBERS"
   },
   {
+    "rn": "Ibihe(amasaha) n'amatariki",
+    "en": "TIME AND DATE"
+  },
+  {
     "rn": "ibihimba vy'umubiri",
     "en": "PARTS OF THE BODY"
+  },
+  {
+    "rn": "ibihumbi bibiri",
+    "en": "Two thousand"
   },
   {
     "rn": "ibikoko",
@@ -888,6 +992,10 @@
     "en": "First vice-president"
   },
   {
+    "rn": "icenda",
+    "en": "Nine"
+  },
+  {
     "rn": "icigwa co gukundisha abantu igihugu",
     "en": "Public spiritedness"
   },
@@ -898,6 +1006,46 @@
   {
     "rn": "icucagirwa ry' ama obi(ry'amabombe)",
     "en": "Shelling"
+  },
+  {
+    "rn": "icumi",
+    "en": "Ten"
+  },
+  {
+    "rn": "icumi n'icenda",
+    "en": "Nineteen"
+  },
+  {
+    "rn": "icumi n'indwi",
+    "en": "Seventeen"
+  },
+  {
+    "rn": "icumi n'umunani",
+    "en": "Eighteen"
+  },
+  {
+    "rn": "icumi na gatandatu",
+    "en": "Sixteen"
+  },
+  {
+    "rn": "icumi na gatanu",
+    "en": "Fifteen"
+  },
+  {
+    "rn": "icumi na gatatu",
+    "en": "Thirteen"
+  },
+  {
+    "rn": "icumi na kabiri",
+    "en": "Twelve"
+  },
+  {
+    "rn": "icumi na kane",
+    "en": "Fourteen"
+  },
+  {
+    "rn": "icumi na rimwe",
+    "en": "Eleven"
   },
   {
     "rn": "idubu",
@@ -942,6 +1090,10 @@
   {
     "rn": "igihori",
     "en": "A grasshopper"
+  },
+  {
+    "rn": "igihumbi",
+    "en": "One thousand"
   },
   {
     "rn": "igihumbi ku kilo",
@@ -1044,6 +1196,10 @@
     "en": "Factory"
   },
   {
+    "rn": "ijana",
+    "en": "One hundred"
+  },
+  {
     "rn": "ijipo",
     "en": "Skirt"
   },
@@ -1074,6 +1230,10 @@
   {
     "rn": "ikawa",
     "en": "coffee"
+  },
+  {
+    "rn": "Iki kiyago kirakwereka uko bera canke uko bahakana ico naka aguhaye canke ico yipfuza kugukorera",
+    "en": "These English dialogues show you how to accept or reject offers made to you."
   },
   {
     "rn": "ikiganza",
@@ -1180,6 +1340,10 @@
     "en": "A rat"
   },
   {
+    "rn": "imbere y'igihe",
+    "en": "Before time"
+  },
+  {
     "rn": "imbogo",
     "en": "A buffalo"
   },
@@ -1214,6 +1378,14 @@
   {
     "rn": "iminsi n'amezi",
     "en": "DAYS AND MONTHS"
+  },
+  {
+    "rn": "imiriyoni",
+    "en": "One million"
+  },
+  {
+    "rn": "imiriyoni zibiri",
+    "en": "Two million"
   },
   {
     "rn": "imiswi",
@@ -1340,6 +1512,10 @@
     "en": "Paediatrics"
   },
   {
+    "rn": "indwi",
+    "en": "Seven"
+  },
+  {
     "rn": "indwi iheze",
     "en": "Last week"
   },
@@ -1378,6 +1554,10 @@
   {
     "rn": "ingurube",
     "en": "A pig"
+  },
+  {
+    "rn": "Ingwara zidakaze",
+    "en": "Mild illness"
   },
   {
     "rn": "inka",
@@ -1432,8 +1612,16 @@
     "en": "Meat"
   },
   {
+    "rn": "inyenyeri",
+    "en": "Stars"
+  },
+  {
     "rn": "Inyishu",
     "en": "Responses"
+  },
+  {
+    "rn": "Inyishu ziremesha",
+    "en": "Sympathetic responses"
   },
   {
     "rn": "inyoni",
@@ -1522,6 +1710,14 @@
   {
     "rn": "isabuni",
     "en": "Soap"
+  },
+  {
+    "rn": "isaha",
+    "en": "An hour"
+  },
+  {
+    "rn": "isaha (indoramwanya)",
+    "en": "A watch"
   },
   {
     "rn": "Isaha 8 uyivuzeko iki?",
@@ -1616,6 +1812,14 @@
     "en": "Fruit"
   },
   {
+    "rn": "Ivyo umuntu akeka(ko vyabaye)",
+    "en": "Disbelief"
+  },
+  {
+    "rn": "ivyo wokwandika ku kaganuke",
+    "en": "What to write on present tags"
+  },
+  {
     "rn": "Iyi mpuzu ikozwe muki?",
     "en": "What is this cloth made of?"
   },
@@ -1628,12 +1832,40 @@
     "en": "The news came as a complete shock."
   },
   {
+    "rn": "iyo udakunda kandi ntiwanke ikintu runaka.",
+    "en": "If you neither like nor dislike something"
+  },
+  {
+    "rn": "iyo udashaka(udakeneye) ikintu runaka.",
+    "en": "If you don't like something"
+  },
+  {
+    "rn": "iyo ukunda ikintu",
+    "en": "If you love something"
+  },
+  {
+    "rn": "iyo ukunda ikintu .",
+    "en": "If you like something"
+  },
+  {
+    "rn": "iyo ukunda ikintu cane.",
+    "en": "If you like something a lot"
+  },
+  {
+    "rn": "iyo uriko utanga akaganuke umuntu uzi neza",
+    "en": "When you are giving a present to someone you know well"
+  },
+  {
     "rn": "Iyo wihuta",
     "en": "When in hurry"
   },
   {
     "rn": "izosi",
     "en": "Neck"
+  },
+  {
+    "rn": "izuba",
+    "en": "Sun"
   },
   {
     "rn": "izuba riserutse",
@@ -1652,8 +1884,16 @@
     "en": "It's only something small, but I hope you'll like it."
   },
   {
+    "rn": "Kenshi na kekenshi abakoresha icongereza barakunda gutanga utuganuke iyo bari mu kiyago ca misi yose",
+    "en": "English speakers make offers all the time in conversation."
+  },
+  {
     "rn": "kigurwa angahe",
     "en": "How much does it cost?"
+  },
+  {
+    "rn": "kimwe",
+    "en": "One"
   },
   {
     "rn": "kimyozi",
@@ -1712,6 +1952,10 @@
     "en": "Asking direction where to"
   },
   {
+    "rn": "kubaza ko wokora ikintu runaka",
+    "en": "Asking if you can do something"
+  },
+  {
     "rn": "kubaza uko umuntu yitwa",
     "en": "Asking how someone is called"
   },
@@ -1722,6 +1966,10 @@
   {
     "rn": "kubeshwaho n`ibiharage",
     "en": "To live on beans"
+  },
+  {
+    "rn": "kugihe",
+    "en": "On time"
   },
   {
     "rn": "kugira amagara meza",
@@ -1762,6 +2010,10 @@
   {
     "rn": "kumuhingamo",
     "en": "In the afternoon"
+  },
+  {
+    "rn": "kumvikana ku mwanya(igihe ,isaha)",
+    "en": "Setting a time"
   },
   {
     "rn": "kunywa",
@@ -1844,6 +2096,18 @@
     "en": "To heap up"
   },
   {
+    "rn": "kwanka",
+    "en": "Declining"
+  },
+  {
+    "rn": "kwemera",
+    "en": "Accepting"
+  },
+  {
+    "rn": "Kwemeranya kw'isango",
+    "en": "Agreeing on a date"
+  },
+  {
     "rn": "kwica",
     "en": "To kill"
   },
@@ -1872,6 +2136,10 @@
     "en": "Uncle"
   },
   {
+    "rn": "mbe no?",
+    "en": "Shall I ?"
+  },
+  {
     "rn": "Mbe uzoba ufise akanya k'umunsi wa kane uza?",
     "en": "Are you free next Thursday?"
   },
@@ -1882,6 +2150,326 @@
   {
     "rn": "Mbonako bitokunda kuwa gatatu. Ubona gute tubonanye kuwa 6?",
     "en": "I'm afraid I can't on the 3rd. What about the 6th?"
+  },
+  {
+    "rn": "Menyaneza ko ikoreshwa ry'utu tujambo mu congererza bituma ushobora kwemera canke guhakana icipfuzo ca naka mu rupfasoni",
+    "en": "Note well Using these common English phrases you are able to accept and reject offers that make you sound polite and helpful."
+  },
+  {
+    "rn": "mirongo ibiri",
+    "en": "Twenty"
+  },
+  {
+    "rn": "mirongo ibiri n'icenda",
+    "en": "Twenty-nine"
+  },
+  {
+    "rn": "mirongo ibiri n'indwi",
+    "en": "Twenty-seven"
+  },
+  {
+    "rn": "mirongo ibiri n'umunani",
+    "en": "Twenty-eight"
+  },
+  {
+    "rn": "mirongo ibiri na gatandatu",
+    "en": "Twenty-six"
+  },
+  {
+    "rn": "mirongo ibiri na gatanu",
+    "en": "Twenty-five"
+  },
+  {
+    "rn": "mirongo ibiri na gatatu",
+    "en": "Twenty-three"
+  },
+  {
+    "rn": "mirongo ibiri na kabiri",
+    "en": "Twenty-two"
+  },
+  {
+    "rn": "mirongo ibiri na kane",
+    "en": "Twenty-four"
+  },
+  {
+    "rn": "mirongo ibiri na rimwe",
+    "en": "Twenty-one"
+  },
+  {
+    "rn": "mirongo icenda",
+    "en": "Ninety"
+  },
+  {
+    "rn": "mirongo icenda n'icenda",
+    "en": "Ninety-nine"
+  },
+  {
+    "rn": "mirongo icenda n'indwi",
+    "en": "Ninety-seven"
+  },
+  {
+    "rn": "mirongo icenda n'umunani",
+    "en": "Ninety-eight"
+  },
+  {
+    "rn": "mirongo icenda na gatandatu",
+    "en": "Ninety-six"
+  },
+  {
+    "rn": "mirongo icenda na gatanu",
+    "en": "Ninety-five"
+  },
+  {
+    "rn": "mirongo icenda na gatatu",
+    "en": "Ninety-three"
+  },
+  {
+    "rn": "mirongo icenda na kabiri",
+    "en": "Ninety-two"
+  },
+  {
+    "rn": "mirongo icenda na kane",
+    "en": "Ninety-four"
+  },
+  {
+    "rn": "mirongo icenda na rimwe",
+    "en": "Ninety-one"
+  },
+  {
+    "rn": "mirongo ine",
+    "en": "Forty"
+  },
+  {
+    "rn": "mirongo ine n'icenda",
+    "en": "Forty-nine"
+  },
+  {
+    "rn": "mirongo ine n'indwi",
+    "en": "Forty-seven"
+  },
+  {
+    "rn": "mirongo ine n'umunani",
+    "en": "Forty-eight"
+  },
+  {
+    "rn": "mirongo ine na gatandatu",
+    "en": "Forty-six"
+  },
+  {
+    "rn": "mirongo ine na gatanu",
+    "en": "Forty-five"
+  },
+  {
+    "rn": "mirongo ine na gatatu",
+    "en": "Forty-three"
+  },
+  {
+    "rn": "mirongo ine na kabiri",
+    "en": "Forty-two"
+  },
+  {
+    "rn": "mirongo ine na kane",
+    "en": "Forty-four"
+  },
+  {
+    "rn": "mirongo ine na rimwe",
+    "en": "Forty-one"
+  },
+  {
+    "rn": "mirongo irindwi n'icenda",
+    "en": "Seventy-nine"
+  },
+  {
+    "rn": "mirongo irindwi n'indwi",
+    "en": "Seventy-seven"
+  },
+  {
+    "rn": "mirongo irindwi n'umunani",
+    "en": "Seventy-eight"
+  },
+  {
+    "rn": "mirongo irindwi na gatandatu",
+    "en": "Seventy-six"
+  },
+  {
+    "rn": "mirongo irindwi na gatanu",
+    "en": "Seventy-five"
+  },
+  {
+    "rn": "mirongo irindwi na gatatu",
+    "en": "Seventy-three"
+  },
+  {
+    "rn": "mirongo irindwi na kabiri",
+    "en": "Seventy-two"
+  },
+  {
+    "rn": "mirongo irindwi na kane",
+    "en": "Seventy-four"
+  },
+  {
+    "rn": "mirongo irindwi na rimwe",
+    "en": "Seventy-one"
+  },
+  {
+    "rn": "mirongo itandatu",
+    "en": "Sixty"
+  },
+  {
+    "rn": "mirongo itandatu n'icenda",
+    "en": "Sixty-nine"
+  },
+  {
+    "rn": "mirongo itandatu n'indwi",
+    "en": "Sixty-seven"
+  },
+  {
+    "rn": "mirongo itandatu n'umunani",
+    "en": "Sixty-eight"
+  },
+  {
+    "rn": "mirongo itandatu na bibiri",
+    "en": "Sixty-two"
+  },
+  {
+    "rn": "mirongo itandatu na gatandatu",
+    "en": "Sixty-six"
+  },
+  {
+    "rn": "mirongo itandatu na gatanu",
+    "en": "Sixty-five"
+  },
+  {
+    "rn": "mirongo itandatu na gatatu",
+    "en": "Sixty-three"
+  },
+  {
+    "rn": "mirongo itandatu na kane",
+    "en": "Sixty-four"
+  },
+  {
+    "rn": "mirongo itandatu na rimwe",
+    "en": "Sixty-one"
+  },
+  {
+    "rn": "mirongo itanu",
+    "en": "Fifty"
+  },
+  {
+    "rn": "mirongo itanu n'icenda",
+    "en": "Fifty-nine"
+  },
+  {
+    "rn": "mirongo itanu n'indwi",
+    "en": "Fifty-seven"
+  },
+  {
+    "rn": "mirongo itanu n'umunani",
+    "en": "Fifty-eight"
+  },
+  {
+    "rn": "mirongo itanu na bibiri",
+    "en": "Fifty-two"
+  },
+  {
+    "rn": "mirongo itanu na bine",
+    "en": "Fifty-four"
+  },
+  {
+    "rn": "mirongo itanu na bitanu",
+    "en": "Fifty-five"
+  },
+  {
+    "rn": "mirongo itanu na gatandatu",
+    "en": "Fifty-six"
+  },
+  {
+    "rn": "mirongo itanu na gatatu",
+    "en": "Fifty-three"
+  },
+  {
+    "rn": "mirongo itanu na rimwe",
+    "en": "Fifty-one"
+  },
+  {
+    "rn": "mirongo itatu",
+    "en": "Thirty"
+  },
+  {
+    "rn": "mirongo itatu n'icenda",
+    "en": "Thirty-nine"
+  },
+  {
+    "rn": "mirongo itatu n'indwi",
+    "en": "Thirty-seven"
+  },
+  {
+    "rn": "mirongo itatu n'umunani",
+    "en": "Thirty-eight"
+  },
+  {
+    "rn": "mirongo itatu na gatandatu",
+    "en": "Thirty-six"
+  },
+  {
+    "rn": "mirongo itatu na gatanu",
+    "en": "Thirty-five"
+  },
+  {
+    "rn": "mirongo itatu na gatatu",
+    "en": "Thirty-three"
+  },
+  {
+    "rn": "mirongo itatu na kabiri",
+    "en": "Thirty-two"
+  },
+  {
+    "rn": "mirongo itatu na kane",
+    "en": "Thirty-four"
+  },
+  {
+    "rn": "mirongo itatu na rimwe",
+    "en": "Thirty-one"
+  },
+  {
+    "rn": "mirongo umunani",
+    "en": "Eighty"
+  },
+  {
+    "rn": "mirongo umunani n'icenda",
+    "en": "Eighty-nine"
+  },
+  {
+    "rn": "mirongo umunani n'indwi",
+    "en": "Eighty-seven"
+  },
+  {
+    "rn": "mirongo umunani n'umunani",
+    "en": "Eighty-eight"
+  },
+  {
+    "rn": "mirongo umunani na gatandatu",
+    "en": "Eighty-six"
+  },
+  {
+    "rn": "mirongo umunani na gatanu",
+    "en": "Eighty-five"
+  },
+  {
+    "rn": "mirongo umunani na gatatu",
+    "en": "Eighty-three"
+  },
+  {
+    "rn": "mirongo umunani na kabiri",
+    "en": "Eighty-two"
+  },
+  {
+    "rn": "mirongo umunani na kane",
+    "en": "Eighty-four"
+  },
+  {
+    "rn": "mirongo umunani na rimwe",
+    "en": "Eighty-one"
   },
   {
     "rn": "Mpore, birababaje",
@@ -1912,12 +2500,20 @@
     "en": "Step mother"
   },
   {
+    "rn": "mumvugo yiyubashe cane",
+    "en": "In more formal situations"
+  },
+  {
     "rn": "Murakenuye.",
     "en": "That's very kind of you, thanks."
   },
   {
     "rn": "Murakoze cane! Birahimbaye/biratangaje/ nivyiza cane",
     "en": "Thank you so much! It's lovely / fantastic / wonderful."
+  },
+  {
+    "rn": "murakoze,ndacariko ndihweza(mw'iduka)",
+    "en": "No ,thanks. I'm just looking. (In a shop.)"
   },
   {
     "rn": "Murantunga gato, hari akazu ku buriro ngaha hafi?",
@@ -1938,6 +2534,10 @@
   {
     "rn": "Murantunga, murandabire umuzigo wanje.",
     "en": "Excuse me, would you mind keeping an eye on my luggage?"
+  },
+  {
+    "rn": "murantunga, mwampaye ingaru idakwiye. Canke Murantunga,ndibazako mwampaye ingaru idakwiye ntabwo nabahaye 5000 nabahaye 10000",
+    "en": "Excuse me, I think you've given me the wrong change, or Sorry, I think this change is wrong. I gave you 10.000Fbu, not 5.000Fbu."
   },
   {
     "rn": "Murantunga, mwonyemerera kongura ideni?",
@@ -1976,6 +2576,18 @@
     "en": "Moustache"
   },
   {
+    "rn": "muzoba mukoze",
+    "en": "Or, Thank you that would be great."
+  },
+  {
+    "rn": "Mw'iduka",
+    "en": "In a shop"
+  },
+  {
+    "rn": "mw'Ihoteri",
+    "en": "In a hotel"
+  },
+  {
     "rn": "mw`ijoro",
     "en": "At night"
   },
@@ -1986,6 +2598,10 @@
   {
     "rn": "Mwiriwe! Mwondangira inzira ija mu Buyenzi?",
     "en": "Good evening! Can you show me the way to Buyenzi?"
+  },
+  {
+    "rn": "mwobikunda ko nda?",
+    "en": "Would you like me to ?"
   },
   {
     "rn": "Mwombwira izina ryanyu?",
@@ -2012,6 +2628,10 @@
     "en": "I've got a nagging pain in my shoulder."
   },
   {
+    "rn": "Naho ku bwawe gukoresha akajambo `sorry` bisa nkaho bidashemeye ku yamara abakoresha icongereza bo babifata nk'imvugo y'urupfasoni ifasha mugushikiriza akakubakiye canke mugusaba ikigongwe",
+    "en": "Although you may find it strange to use the word `sorry` when you complain, English speakers consider it polite. It will help you get what you want!"
+  },
+  {
     "rn": "Namye ndacipfuza!",
     "en": "It's something I've always wanted!"
   },
@@ -2028,8 +2648,20 @@
     "en": "Good afternoon"
   },
   {
+    "rn": "Ndagufashe?",
+    "en": "Can I help you?"
+  },
+  {
     "rn": "Ndakomeye ",
     "en": "I' m fine "
+  },
+  {
+    "rn": "Ndakuguririre urugi?",
+    "en": "Shall I open the window for you?"
+  },
+  {
+    "rn": "Ndakugururire idirisha?",
+    "en": "Shall I open the window for you?"
   },
   {
     "rn": "Ndakunda gufungura ifi.",
@@ -2048,6 +2680,14 @@
     "en": "I like swimming very much."
   },
   {
+    "rn": "Ndakwongere iyindi kawa?",
+    "en": "Would you like another coffee?"
+  },
+  {
+    "rn": "ndakwongere iyindi kawa?(mwoba mwifuza iyindi kawa)",
+    "en": "Would you like another coffee?"
+  },
+  {
     "rn": "Ndanka gutakaza umwanya",
     "en": "I dislike wasting time."
   },
@@ -2058,6 +2698,14 @@
   {
     "rn": "ndashima",
     "en": "I'm in form"
+  },
+  {
+    "rn": "Ndashobora gukoresha mudasobwa(ordinateur) yawe?",
+    "en": "Can I use your computer, please?"
+  },
+  {
+    "rn": "ndashobora kugufasha?",
+    "en": "Can I help you?"
   },
   {
     "rn": "ndibaza ko ataruhombo",
@@ -2096,12 +2744,24 @@
     "en": "I'm so cool "
   },
   {
+    "rn": "niba ubishaka( niba bitokurwa nabi)",
+    "en": "If you wouldn't mind. Or, If you could."
+  },
+  {
+    "rn": "Nimba atacobigutwaye nzogirisha fotokopi",
+    "en": "I'll do the photocopying, if you like."
+  },
+  {
     "rn": "Nimba vyoshoboka nipfuzako twobonana mu gitondo",
     "en": "If possible, I'd like to meet in the morning."
   },
   {
     "rn": "Nimba wanka ikintu koko",
     "en": "If you really dislike something"
+  },
+  {
+    "rn": "nirongo irindwi",
+    "en": "Seventy"
   },
   {
     "rn": "Nisawa",
@@ -2140,6 +2800,10 @@
     "en": "I don't mind doing the housework."
   },
   {
+    "rn": "ntakibazo ndabikora",
+    "en": "It's OK, I can do it. Or, Don't worry, I'll do it."
+  },
+  {
     "rn": "Ntakunda gukinjika kenshi",
     "en": "She doesn't like cooking very much."
   },
@@ -2158,6 +2822,10 @@
   {
     "rn": "ntikizimvye",
     "en": "It's not expensive"
+  },
+  {
+    "rn": "Ntukishure ukoresheje yes,I would yonyene kuko biboneka nkaho umengo ukeneye ko uwundi abigukorera",
+    "en": "Don't answer Yes, I would, as this sounds like you expect someone to do it for you."
   },
   {
     "rn": "Numa ntamerewe neza",
@@ -2184,8 +2852,16 @@
     "en": "Well, I'd love to, but I'm already going out to the beach."
   },
   {
+    "rn": "nzokoresha fotokopi nimba ubikeneye",
+    "en": "I'll do the photocopying, if you like. "
+  },
+  {
     "rn": "obi",
     "en": "Shell"
+  },
+  {
+    "rn": "oya ,murakoze",
+    "en": "No, thanks.Or, No thank you."
   },
   {
     "rn": "pima ikilo c' isukari",
@@ -2198,6 +2874,10 @@
   {
     "rn": "ravabo",
     "en": "Wash basin"
+  },
+  {
+    "rn": "Rimwe na rimwe harigihe wumva utamerewe neza kandi utarwaye.Ngaya amwe amwe mu majambo akoreshwa mu mvugo rusangi mukuvuga uko wumva umerewe na zimwe munyishu ziremesha(zihumuriza) zikoreshwa na benshi",
+    "en": "Sometimes you don't feel very well, but you're not really ill. Here are some common expressions that you can use to describe general \u201caches and pains\u201d and some useful \u201csympathetic\u201d responses."
   },
   {
     "rn": "ruseha abaniha",
@@ -2264,6 +2944,10 @@
     "en": "Is next Tuesday convenient for you?"
   },
   {
+    "rn": "ububabare bushika kenshi na kenshi",
+    "en": "General aches and pains"
+  },
+  {
     "rn": "Ububabare bw`iryinyo",
     "en": "Toothache"
   },
@@ -2286,6 +2970,14 @@
   {
     "rn": "ubunyene",
     "en": "Now"
+  },
+  {
+    "rn": "Uburyo nkenerwa bwoguhana canke guhindura isango",
+    "en": "Useful phrases for making and changing appointments."
+  },
+  {
+    "rn": "ubusa",
+    "en": "Zero"
   },
   {
     "rn": "ubusazi",
@@ -2380,8 +3072,24 @@
     "en": "What are you in charge of? "
   },
   {
+    "rn": "Ukeneye ko nitaba terefone",
+    "en": "Would you like me to answer the phone?"
+  },
+  {
+    "rn": "ukenye ko nitaba terefone?",
+    "en": "Would you like me to answer the phone?"
+  },
+  {
+    "rn": "Uko bashikiriza umubabaro(akababaro)",
+    "en": "HOW TO EXPRESS SHOCK IN ENGLISH"
+  },
+  {
     "rn": "Uko bavuga ibijanye n'indwara",
     "en": "HOW TO TALK ABOUT ILLNESS"
+  },
+  {
+    "rn": "Uko wotanga n'uko wokwemera ubutumire.",
+    "en": "How to make and accept invitations in English."
   },
   {
     "rn": "Ukora iki?",
@@ -2406,6 +3114,14 @@
   {
     "rn": "ukuguru kw'igikoko",
     "en": "A paw"
+  },
+  {
+    "rn": "ukwakira",
+    "en": "Receiving"
+  },
+  {
+    "rn": "ukwezi",
+    "en": "Moon"
   },
   {
     "rn": "ukwezi guheze",
@@ -2584,6 +3300,10 @@
     "en": "A journalist"
   },
   {
+    "rn": "umunani",
+    "en": "Eight"
+  },
+  {
     "rn": "umuntu afotora",
     "en": "Photographer"
   },
@@ -2594,6 +3314,10 @@
   {
     "rn": "umuntu yarezwe neza",
     "en": "Well bred person"
+  },
+  {
+    "rn": "umunuta",
+    "en": "A minute"
   },
   {
     "rn": "umunwa",
@@ -2664,6 +3388,10 @@
     "en": "The Fire"
   },
   {
+    "rn": "umuriyaridi",
+    "en": "One billion"
+  },
+  {
     "rn": "umurizo",
     "en": "A tail"
   },
@@ -2698,6 +3426,10 @@
   {
     "rn": "umusazi",
     "en": "Madman"
+  },
+  {
+    "rn": "umusegonda",
+    "en": "A second"
   },
   {
     "rn": "umusenzi",
@@ -2928,8 +3660,24 @@
     "en": "I'm sorry, I won't be able to make it on Monday. Could we meet on Tuesday instead?"
   },
   {
+    "rn": "urasbora kunyugururira urugi?",
+    "en": "Can you open the door for me, please?"
+  },
+  {
+    "rn": "Urashobora kungurana amafaranga?",
+    "en": "Could I borrow some money from you, please?"
+  },
+  {
+    "rn": "Urashobora kunyugururira ?",
+    "en": "Could you open the door for me, please?"
+  },
+  {
     "rn": "Uraziko twaritwasezeranye ko tubonana ku musi wa gatanu uza, urantunga kuko harikintu cihutirwa kizoba.",
     "en": "You know we were going to meet next Friday? Well, I'm very sorry, but something urgent has come up."
+  },
+  {
+    "rn": "Uri mw'iduka bakaguha ingaru idakwiye",
+    "en": "You're in a shop and the assistant gives you the wrong change"
   },
   {
     "rn": "uriko uva he?",
@@ -2986,6 +3734,22 @@
   {
     "rn": "ururimi",
     "en": "Tongue"
+  },
+  {
+    "rn": "urushinge rw'amasaha",
+    "en": "The hour hand"
+  },
+  {
+    "rn": "urushinge rw'amasegonda",
+    "en": "The seconds"
+  },
+  {
+    "rn": "urushinge rw'iminota",
+    "en": "The minutes hand"
+  },
+  {
+    "rn": "urushinge rw'isaha",
+    "en": "A hand"
   },
   {
     "rn": "urushinge(bakoresha mukuvura)",
