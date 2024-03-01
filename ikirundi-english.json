@@ -1,11 +1,511 @@
 [
   {
+    "rn": " amajambo bakoresha muri poritike",
+    "en": "POLITICAL TERMNOLOGY"
+  },
+  {
+    "rn": " Bigenda gute? ",
+    "en": "How are you going?"
+  },
+  {
+    "rn": " Gahoro gahoro,ndahendahenda",
+    "en": "I'm so-so"
+  },
+  {
+    "rn": " Inyishu zimwe zimwe",
+    "en": "Some responses"
+  },
+  {
+    "rn": " Ku muntu uruta",
+    "en": "To your inferior you can say"
+  },
+  {
+    "rn": " Kubaza iyo naka agiye",
+    "en": "Asking direction where to"
+  },
+  {
+    "rn": " kubaza iyo umuntu avuye",
+    "en": "Asking where someone comes from"
+  },
+  {
+    "rn": " Kumuntu akuruta ushobora kuvuga",
+    "en": "To your superior you can say"
+  },
+  {
+    "rn": " Mba mu Burundi",
+    "en": "I dwell in BURUNDI"
+  },
+  {
+    "rn": " Mba mu Bwiza",
+    "en": "I live at Bwiza"
+  },
+  {
+    "rn": " Mba mu Kanyosha",
+    "en": "I stay at Kanyosha"
+  },
+  {
+    "rn": " Mfashe iya mu CIBITOKE",
+    "en": "I'm aiming to CIBITOKE"
+  },
+  {
+    "rn": " Mfise imyaka 27",
+    "en": "I am 27 years old"
+  },
+  {
+    "rn": " Mugihe ibintu bitameze neza canke ngo bibe bibi",
+    "en": "Neither good nor bad condition"
+  },
+  {
+    "rn": " Mvuye I Ngozi",
+    "en": "I from NGOZI"
+  },
+  {
+    "rn": " Mvuye Mwi Rohero",
+    "en": "I'm coming from Rohero"
+  },
+  {
+    "rn": " Mwiriwe",
+    "en": "Good evening"
+  },
+  {
+    "rn": " Mwombwira izina ryanyu?",
+    "en": "Could you tell me your name?"
+  },
+  {
+    "rn": " Mwuye I Bujumbura",
+    "en": "I come from Bujumbura"
+  },
+  {
+    "rn": " Mwuye ku kazi",
+    "en": "I back from work"
+  },
+  {
+    "rn": " Natse indaro I Kiriri",
+    "en": "I hang out at Kiriri"
+  },
+  {
+    "rn": " Navukiye mu CIBITOKE",
+    "en": "I was born in CIBITOKE"
+  },
+  {
+    "rn": " Navutse mu 1985",
+    "en": "I was born in 1985"
+  },
+  {
+    "rn": " Ndatahije",
+    "en": "Greeting to"
+  },
+  {
+    "rn": " Ndi umudandaza",
+    "en": "I'm a trader "
+  },
+  {
+    "rn": " Ndi umuganga",
+    "en": "I'm a doctor "
+  },
+  {
+    "rn": " Ndi umusirikare",
+    "en": "I'm a soldier "
+  },
+  {
+    "rn": " Ndi umwigisha",
+    "en": "I'm a preacher"
+  },
+  {
+    "rn": " Nerekereje Kuruhagarika",
+    "en": "I'm heading for RUHARIKA"
+  },
+  {
+    "rn": " Ngiye kuraba isanamu",
+    "en": "I'm going to the movie"
+  },
+  {
+    "rn": " Ngiye mugisagara",
+    "en": "I'm leading to town"
+  },
+  {
+    "rn": " Ni gute?",
+    "en": "What's up?"
+  },
+  {
+    "rn": " Ni hutiye gusenga",
+    "en": "I'm in hurry to church"
+  },
+  {
+    "rn": " Ni vyiza",
+    "en": "I'm OK "
+  },
+  {
+    "rn": " Nitwa MAKOBORA",
+    "en": "My name is MAKOBORA"
+  },
+  {
+    "rn": " Nitwa MUGISHA",
+    "en": "I'm MUGISHA"
+  },
+  {
+    "rn": " Nitwa NIKIZA Mariko",
+    "en": "I'm called NIKIZA Mark"
+  },
+  {
+    "rn": " Nkubitiye mu NYAKABIGA",
+    "en": "To NYAKABIGA"
+  },
+  {
+    "rn": " Nsimbiye  mu KININDO",
+    "en": "Up to KININDO"
+  },
+  {
+    "rn": " Ntacobitwaye, nitwa Ciza",
+    "en": "Don't worry, my name is CIZA"
+  },
+  {
+    "rn": " Ntahiriza",
+    "en": "Give love to"
+  },
+  {
+    "rn": " Ntakigenda",
+    "en": "Nothing goes"
+  },
+  {
+    "rn": " Ntangorane, nitwa NIMUBONA",
+    "en": "Sure, my name is NIMUBONA"
+  },
+  {
+    "rn": " Nyarukiye ku Nteganya bizoza kw'ibanki",
+    "en": "I'm dashing to the bank"
+  },
+  {
+    "rn": " Nyarukiye kw' Isoko",
+    "en": "I'm rushing to the market"
+  },
+  {
+    "rn": " Uba he?",
+    "en": "Where do you live?"
+  },
+  {
+    "rn": " Ufise imyaka ingahe?",
+    "en": "How old are you?"
+  },
+  {
+    "rn": " Ugiye he?",
+    "en": "Where are you going to?"
+  },
+  {
+    "rn": " uko batasha",
+    "en": "How to send greetings"
+  },
+  {
+    "rn": " Ukora iki mu buzima?",
+    "en": "What do you do in your life?"
+  },
+  {
+    "rn": " Ukora iki?",
+    "en": "What's your occupation?"
+  },
+  {
+    "rn": " Ukubaza ibijanye n'igikorwa",
+    "en": "Asking about occupation"
+  },
+  {
+    "rn": " ukunguruza abantu n'ibintu",
+    "en": "TRANSPORT"
+  },
+  {
+    "rn": " Ukuvuga ivyo ukunda n'ivyo udakunda",
+    "en": "TALKING ABOUT LIKES AND DISLIKES IN ENGLISH "
+  },
+  {
+    "rn": " Umuhamagaro wawe ni uwuhe?",
+    "en": "What is your calling?"
+  },
+  {
+    "rn": " Urampere intasho umugenzi wanje BARAKA.",
+    "en": "Give my best regards to my friend BARAKA"
+  },
+  {
+    "rn": " Urandamukirize",
+    "en": "Say hello to"
+  },
+  {
+    "rn": " Urandamukirize Yohana",
+    "en": "Greetings to John"
+  },
+  {
+    "rn": " Urantahirize",
+    "en": "Give my best regards to"
+  },
+  {
+    "rn": " Urantahirize abavyeyi",
+    "en": "Give love to my parents"
+  },
+  {
+    "rn": " Urantahirize marume",
+    "en": "Say hello to my uncle"
+  },
+  {
+    "rn": " Uriko uja he?",
+    "en": "Where are departing?"
+  },
+  {
+    "rn": " Uriko unyarukira he?",
+    "en": "Where do you hurry up to?"
+  },
+  {
+    "rn": " Uroye he?",
+    "en": "Where are you heading for?"
+  },
+  {
+    "rn": " uturorero",
+    "en": "Examples given"
+  },
+  {
+    "rn": " vuga izina ryawe",
+    "en": "Your name please! "
+  },
+  {
+    "rn": " Vyose vyanse,ntakigenda",
+    "en": "Everything goes wrong"
+  },
+  {
+    "rn": " Watse indaro he?",
+    "en": "Where do you hang out? "
+  },
+  {
+    "rn": " Wavukiye he?",
+    "en": "Where were you born?"
+  },
+  {
+    "rn": " Wavutse ryari?",
+    "en": "When were you born?"
+  },
+  {
+    "rn": " Werekeje he?",
+    "en": "Where are you aiming?"
+  },
+  {
+    "rn": " Wihutira he?",
+    "en": "Where are you in hurry to?"
+  },
+  {
+    "rn": "abafundi",
+    "en": "Repairers"
+  },
+  {
+    "rn": "abana",
+    "en": "The children"
+  },
+  {
+    "rn": "abantu bo mu muryango umwe",
+    "en": "The kinsmen"
+  },
+  {
+    "rn": "abasubijwe mubuzima busanzwe",
+    "en": "Ex-serviceman"
+  },
+  {
+    "rn": "abatavuga rumwe",
+    "en": "Opponents"
+  },
+  {
+    "rn": "abavyeyi",
+    "en": "The parents"
+  },
+  {
+    "rn": "agahanga",
+    "en": "Skull"
+  },
+  {
+    "rn": "agakoko",
+    "en": "An insect"
+  },
+  {
+    "rn": "agasakanwa",
+    "en": "Chin"
+  },
+  {
+    "rn": "agatsintsiri",
+    "en": "Heel"
+  },
+  {
+    "rn": "aha na he?",
+    "en": "Where to?"
+  },
+  {
+    "rn": "ahakomowe",
+    "en": "Insect bite"
+  },
+  {
+    "rn": "ahantu hatagira umutekano",
+    "en": "The no go area"
+  },
+  {
+    "rn": "Aka kaganuke ni rwawe",
+    "en": "This is for you."
+  },
+  {
+    "rn": "akababa k'ifi",
+    "en": "A fin"
+  },
+  {
+    "rn": "akabati",
+    "en": "Cupboard"
+  },
+  {
+    "rn": "akajagari",
+    "en": "Disturbance"
+  },
+  {
+    "rn": "akamwanya(agasashe)",
+    "en": "A plastic bag"
+  },
+  {
+    "rn": "akanyegeri",
+    "en": "An ant"
+  },
+  {
+    "rn": "Akayabagu!",
+    "en": "Enjoy your meal!"
+  },
+  {
     "rn": "akayabu",
     "en": ""
   },
   {
+    "rn": "akayiko k'icayi",
+    "en": "Teaspoon"
+  },
+  {
+    "rn": "Akazina kanyu",
+    "en": "Please, Your Name! "
+  },
+  {
+    "rn": "akazirabunonko",
+    "en": "Ankle"
+  },
+  {
+    "rn": "akazu badandarizamwo(kiyosike)",
+    "en": "Kiosk"
+  },
+  {
+    "rn": "amafaranga",
+    "en": "Money"
+  },
+  {
+    "rn": "amaga",
+    "en": "Gloves"
+  },
+  {
+    "rn": "amagara",
+    "en": "Health"
+  },
+  {
+    "rn": "amagara n'indwara",
+    "en": "HEALTH AND SICKNESS"
+  },
+  {
+    "rn": "amahoro",
+    "en": "Peace"
+  },
+  {
+    "rn": "Amajambo nkenerwa",
+    "en": "SPECIAL KEYWORDS"
+  },
+  {
+    "rn": "amajana abiri",
+    "en": "Two hundred"
+  },
+  {
+    "rn": "amajana abiri na rimwe",
+    "en": "Two hundred one"
+  },
+  {
+    "rn": "Amakuru maki ?",
+    "en": "How do you do ?"
+  },
+  {
+    "rn": "Amakuru maki?",
+    "en": "How are you? "
+  },
+  {
+    "rn": "amaperu",
+    "en": "Guava"
+  },
+  {
+    "rn": "amashesheti(amasogisi)",
+    "en": "Socks"
+  },
+  {
+    "rn": "amashu",
+    "en": "Cabbage"
+  },
+  {
+    "rn": "amaso",
+    "en": "Eyes"
+  },
+  {
+    "rn": "amata",
+    "en": "Milk"
+  },
+  {
+    "rn": "amatati afatiye kumoko[indyane z`amoko]",
+    "en": "Ethnic conflict"
+  },
+  {
+    "rn": "amatora",
+    "en": "Polling/Vote"
+  },
+  {
+    "rn": "amavuta",
+    "en": "Oil"
+  },
+  {
+    "rn": "amazi",
+    "en": "Water"
+  },
+  {
+    "rn": "amazi meza (amazi yo kunwa)",
+    "en": "Drinking water"
+  },
+  {
+    "rn": "amenyo",
+    "en": "Teeth"
+  },
+  {
+    "rn": "amoraso",
+    "en": "Blood"
+  },
+  {
+    "rn": "Arakunda cane ishokora",
+    "en": "She's fond of chocolate."
+  },
+  {
+    "rn": "Arakunda kuja kwi senema.",
+    "en": "He quite likes going to the cinema."
+  },
+  {
+    "rn": "Aranka gucerwa",
+    "en": "He detests being late."
+  },
+  {
+    "rn": "arashaka",
+    "en": "At war"
+  },
+  {
+    "rn": "aso(gukomeza uja imbere)",
+    "en": "Assault"
+  },
+  {
     "rn": "babika arakina na karabaye",
     "en": ""
+  },
+  {
+    "rn": "Bagutazira nde?",
+    "en": "What's your given name?"
+  },
+  {
+    "rn": "bakoresha amajambo nka",
+    "en": "They say things like"
   },
   {
     "rn": "bamire na banuma bagiye gukora",
@@ -32,12 +532,76 @@
     "en": ""
   },
   {
+    "rn": "bibiri",
+    "en": "Two"
+  },
+  {
+    "rn": "Bigenda gute?",
+    "en": "How are you doing?"
+  },
+  {
+    "rn": "Bigenda gute? ",
+    "en": "How is it going? "
+  },
+  {
+    "rn": "Bimeze gute?",
+    "en": "How are things? "
+  },
+  {
+    "rn": "bine",
+    "en": "Four"
+  },
+  {
+    "rn": "birababaje,reka ndarungika uwugufasha",
+    "en": "or Sorry to hear that  I'll send someone up"
+  },
+  {
+    "rn": "Birahimbaye, murakoze",
+    "en": "It's lovely, thank you!"
+  },
+  {
+    "rn": "biraryoshe",
+    "en": "It tastes good"
+  },
+  {
+    "rn": "birshoboka ko?",
+    "en": "Can I ?"
+  },
+  {
+    "rn": "bitandatu",
+    "en": "Six"
+  },
+  {
+    "rn": "bitanu",
+    "en": "Five"
+  },
+  {
+    "rn": "bitatu",
+    "en": "Three"
+  },
+  {
+    "rn": "Bite?",
+    "en": "Hello"
+  },
+  {
+    "rn": "Buke buke,ndacumbagiza ",
+    "en": "I'm fifty-fifty"
+  },
+  {
     "rn": "buname agiye kuvoma",
     "en": ""
   },
   {
     "rn": "buname aherekeje digiri",
     "en": ""
+  },
+  {
+    "rn": "burende",
+    "en": "Bullet-proof"
+  },
+  {
+    "rn": "data",
+    "en": "The father"
   },
   {
     "rn": "data aje yikoreye igiti",
@@ -52,19 +616,3287 @@
     "en": ""
   },
   {
+    "rn": "Ego woba ugize neza cane",
+    "en": "Yes please. That would be very kind of you."
+  },
+  {
+    "rn": "Ego,vyoba vyiza kurusha",
+    "en": "Yes please, that would be lovely. Or, Yes please, I'd love one."
+  },
+  {
+    "rn": "Egome, kuwa kane ntakibazo.",
+    "en": "Yes, Thursday is fine."
+  },
+  {
+    "rn": "Egome,nkeneye kumenya umwanya gari ya moshi igirako",
+    "en": "Yes please. I'd like to know what time the train leaves"
+  },
+  {
+    "rn": "ejo hahise",
+    "en": "Yesterday"
+  },
+  {
+    "rn": "ejo hahise mw'ijoro",
+    "en": "Yesterday morning"
+  },
+  {
+    "rn": "ejo hahise mw`ijoro",
+    "en": "Last night"
+  },
+  {
+    "rn": "ejo hazoza",
+    "en": "Tomorrow"
+  },
+  {
+    "rn": "ejo hazoza k'umuhingamo",
+    "en": "Tomorrow afternoon"
+  },
+  {
+    "rn": "ejo hazoza mugitondo",
+    "en": "Tomorrow morning"
+  },
+  {
+    "rn": "firigo(inkanyisho)",
+    "en": "Refrigerator"
+  },
+  {
+    "rn": "gahererezi",
+    "en": "Little finger"
+  },
+  {
+    "rn": "gapiteni",
+    "en": "Captain"
+  },
+  {
+    "rn": "gasuku",
+    "en": "A parrot"
+  },
+  {
+    "rn": "general de brigade",
+    "en": "Brigadier general"
+  },
+  {
+    "rn": "gihugu n'ibenga, nzoja ibwami",
+    "en": "Ring finger"
+  },
+  {
+    "rn": "guca umutwe",
+    "en": "To behead"
+  },
+  {
+    "rn": "gucererwa",
+    "en": "Be late"
+  },
+  {
+    "rn": "gucira abantu mw'ijambo kugira ubabaze.",
+    "en": "Interrupting people to ask them for something"
+  },
+  {
+    "rn": "gufungura",
+    "en": "To eat"
+  },
+  {
+    "rn": "guhagarika intambara",
+    "en": "The ceasefire"
+  },
+  {
+    "rn": "Guhana isango",
+    "en": "MAKING APPOINTMENTS"
+  },
+  {
+    "rn": "guhekenya",
+    "en": "To chew"
+  },
+  {
+    "rn": "Guhindura Isango",
+    "en": "Changing the arrangement"
+  },
+  {
+    "rn": "gukira",
+    "en": "To get well; to recover"
+  },
+  {
+    "rn": "gukora ubwicanyi bukabije",
+    "en": "To murder"
+  },
+  {
+    "rn": "gukorora inda",
+    "en": "Abortion"
+  },
+  {
+    "rn": "gupima n`umunzane",
+    "en": "To weigh"
+  },
+  {
+    "rn": "gusaba gufashwa gukora ikintu( gusaba agacumu k'ubumwe)",
+    "en": "MAKING REQUESTS"
+  },
+  {
+    "rn": "gusaba ikintu mucongereza ntibisaba kurinda kwimena umutwe. Wame wibuka amajambo amwamwe bakoresha, bizokworohereza cane.",
+    "en": "Asking for things in English doesn't need to be stressful. Just remember some key phrases, and you'll be able to deal with most situations smoothly and confidently."
+  },
+  {
+    "rn": "gusaba ikintu runaka",
+    "en": "Asking something"
+  },
+  {
+    "rn": "Gusaba kubonana",
+    "en": "Asking to meet"
+  },
+  {
+    "rn": "Gushikiriza canke guhitamwo uwundi musi",
+    "en": "Suggesting a different date"
+  },
+  {
+    "rn": "gushikiriza umubabaro",
+    "en": "HOW TO EXPRESS SHOCK IN ENGLISH"
+  },
+  {
+    "rn": "gushira umukono ku masezerano y'amahoro",
+    "en": "To sign peace agreement"
+  },
+  {
+    "rn": "gutanga inyishu y'i ngabire canke y'icipfuzo ca naka",
+    "en": "Responding to offers"
+  },
+  {
+    "rn": "Gutanga no kwakira ingabire",
+    "en": "GIVING AND RECEIVING PRESENTS IN ENGLISH"
+  },
+  {
+    "rn": "gutangura indwano",
+    "en": "To wage war"
+  },
+  {
+    "rn": "guteka",
+    "en": "To cook"
+  },
+  {
+    "rn": "guteka ifi",
+    "en": "To cook fish"
+  },
+  {
+    "rn": "gutekera",
+    "en": "To park"
+  },
+  {
+    "rn": "gutembagaza ubutegetsi",
+    "en": "To overthrow the government"
+  },
+  {
+    "rn": "gutera",
+    "en": "To attack"
+  },
+  {
+    "rn": "gutera amar(iyongerezwa) ry`amaraso",
+    "en": "Blood transfusion"
+  },
+  {
+    "rn": "gutera obi",
+    "en": "To shell"
+  },
+  {
+    "rn": "gutora",
+    "en": "To elect"
+  },
+  {
+    "rn": "gutwara igihugu",
+    "en": "To reign over country"
+  },
+  {
+    "rn": "Haaa, mbona kuwa gatatu uzohava ugorana gato. Je mbona twofata kuwa gatanu nimba ukworohereza?",
+    "en": "Ah, Wednesday is going to be a little difficult. I'd much prefer Friday, if that's alright with you."
+  },
+  {
+    "rn": "Hari amajambo menshi yogukoresha kugirango werekane uko ukunda canke wanka ikintu.",
+    "en": "There's a whole range of English expressions you can use to talk about how much you like or dislike something."
+  },
+  {
+    "rn": "Harico uzoba uriko urakora mu ndwi iza?",
+    "en": "Are you doing anything next weekend?"
+  },
+  {
+    "rn": "harico vyogutwara nakije insusuruzi?",
+    "en": "Do you mind if I turn up the heating?"
+  },
+  {
+    "rn": "harico vyogutwara unyugururiye urugi?",
+    "en": "Would you mind opening the door for me, please?"
+  },
+  {
+    "rn": "Harintambamyi ishitse mu mwanya kubwivyo ntibikunda ko tubonana inyuma ya sasita. Duhane irindi sango?",
+    "en": "Something has just cropped up and I won't be able to meet you this afternoon. Can we make another time?"
+  },
+  {
+    "rn": "hirya y`ejo hahise",
+    "en": "Day before yesterday"
+  },
+  {
+    "rn": "hirya y`ejo hazoza",
+    "en": "Day after tomorrow"
+  },
+  {
     "rn": "i muhira hariho akayabu gatoyi. kari n'utuguru tubiri n'utuboko tubiri. kari n'amabara yera n'ayirabura. karakina n'utubeba dutoduto, ariko iyo gahuye n'ibibeba bininibinini, karabibona kagatuna, kakabimira. iyo hari abana batoyi karakina na bo. karabirukana, kakabaharura ku maboko no ku maguru. bano bana hari aho barira ariko bakaguma bakina na ko. iyo data agiye gukama, karamukurikira. aragaha amata, kakayagotomera.",
     "en": ""
+  },
+  {
+    "rn": "ibaba",
+    "en": "A wing"
+  },
+  {
+    "rn": "ibarabara rikuru",
+    "en": "State highway"
+  },
+  {
+    "rn": "ibase",
+    "en": "Pull"
+  },
+  {
+    "rn": "ibendera",
+    "en": "A flag"
+  },
+  {
+    "rn": "ibere",
+    "en": "Breast"
+  },
+  {
+    "rn": "ibibuno",
+    "en": "Buttocks"
+  },
+  {
+    "rn": "ibicu",
+    "en": "The sky"
+  },
+  {
+    "rn": "ibidandazwa",
+    "en": "Goods"
+  },
+  {
+    "rn": "ibifugurwa",
+    "en": "Food"
+  },
+  {
+    "rn": "ibiharage",
+    "en": "Beans"
+  },
+  {
+    "rn": "ibiharuro, ibitigiri",
+    "en": "NUMBERS"
+  },
+  {
+    "rn": "Ibihe(amasaha) n'amatariki",
+    "en": "TIME AND DATE"
+  },
+  {
+    "rn": "ibihimba vy'umubiri",
+    "en": "PARTS OF THE BODY"
+  },
+  {
+    "rn": "ibihumbi bibiri",
+    "en": "Two thousand"
+  },
+  {
+    "rn": "ibikoko",
+    "en": "ANIMALS"
+  },
+  {
+    "rn": "ibikoko vy'ibitungano",
+    "en": "PETS ANIMALS"
+  },
+  {
+    "rn": "ibikoko vyo mw'ishamba",
+    "en": "WILD ANIMALS"
+  },
+  {
+    "rn": "ibikoresho vyo munzu",
+    "en": "HOUSE-HOLD ARTICLES AND FORNITURES"
+  },
+  {
+    "rn": "ibindi bijanye n'ibikoko",
+    "en": "MORE ABOUT ANIMALS"
+  },
+  {
+    "rn": "ibinyobwa",
+    "en": "DRINKS"
+  },
+  {
+    "rn": "ibinyobwa bikanye",
+    "en": "Cold drinks"
+  },
+  {
+    "rn": "ibinyobwa bishushe",
+    "en": "Hot drinks"
+  },
+  {
+    "rn": "ibinyobwa bitaboreza",
+    "en": "Soft drinks"
+  },
+  {
+    "rn": "ibirato",
+    "en": "Shoes"
+  },
+  {
+    "rn": "ibirato bidafuka ibirenge(sandals)",
+    "en": "Slippers"
+  },
+  {
+    "rn": "ibirato vyo kwinonora imitsi",
+    "en": "Sport shoes"
+  },
+  {
+    "rn": "ibirimwo",
+    "en": "CONTENTS"
+  },
+  {
+    "rn": "ibiro",
+    "en": "Office"
+  },
+  {
+    "rn": "ibiro vy`umukuru w`igihugu",
+    "en": "Headstate's office"
+  },
+  {
+    "rn": "ibitaro",
+    "en": "Hospital"
+  },
+  {
+    "rn": "ibizinu",
+    "en": "Mushrooms"
+  },
+  {
+    "rn": "ibombe",
+    "en": "Bomb"
+  },
+  {
+    "rn": "ibutura",
+    "en": "Short"
+  },
+  {
+    "rn": "icari",
+    "en": "A nest"
+  },
+  {
+    "rn": "icayi",
+    "en": "Tea"
+  },
+  {
+    "rn": "icayi c`indimu",
+    "en": "Lemon tea"
+  },
+  {
+    "rn": "icegera ca kabiri c`umukuru w`igihugu",
+    "en": "Second vice-President"
+  },
+  {
+    "rn": "icegera ca mbere c`umukuru w`igihugu",
+    "en": "First vice-president"
+  },
+  {
+    "rn": "icenda",
+    "en": "Nine"
+  },
+  {
+    "rn": "icigwa co gukundisha abantu igihugu",
+    "en": "Public spiritedness"
+  },
+  {
+    "rn": "Ico ciyumviro nico, murakoze.",
+    "en": "What a great idea, thanks."
+  },
+  {
+    "rn": "icucagirwa ry' ama obi(ry'amabombe)",
+    "en": "Shelling"
+  },
+  {
+    "rn": "icumi",
+    "en": "Ten"
+  },
+  {
+    "rn": "icumi n'icenda",
+    "en": "Nineteen"
+  },
+  {
+    "rn": "icumi n'indwi",
+    "en": "Seventeen"
+  },
+  {
+    "rn": "icumi n'umunani",
+    "en": "Eighteen"
+  },
+  {
+    "rn": "icumi na gatandatu",
+    "en": "Sixteen"
+  },
+  {
+    "rn": "icumi na gatanu",
+    "en": "Fifteen"
+  },
+  {
+    "rn": "icumi na gatatu",
+    "en": "Thirteen"
+  },
+  {
+    "rn": "icumi na kabiri",
+    "en": "Twelve"
+  },
+  {
+    "rn": "icumi na kane",
+    "en": "Fourteen"
+  },
+  {
+    "rn": "icumi na rimwe",
+    "en": "Eleven"
+  },
+  {
+    "rn": "idubu",
+    "en": "A bear"
+  },
+  {
+    "rn": "ifanta,ibisosa",
+    "en": "Lemonade"
+  },
+  {
+    "rn": "ifarasi",
+    "en": "A horse"
+  },
+  {
+    "rn": "iferu, ipasi",
+    "en": "Iron"
+  },
+  {
+    "rn": "ifi",
+    "en": "Fish"
+  },
+  {
+    "rn": "ifu",
+    "en": "Flour"
+  },
+  {
+    "rn": "ifurusheti(ikanya)",
+    "en": "Fork"
+  },
+  {
+    "rn": "ifyigo",
+    "en": "Kidney"
+  },
+  {
+    "rn": "igaragamba",
+    "en": "A scale"
+  },
+  {
+    "rn": "igifyera",
+    "en": "A snail"
+  },
+  {
+    "rn": "igihori",
+    "en": "A grasshopper"
+  },
+  {
+    "rn": "igihumbi",
+    "en": "One thousand"
+  },
+  {
+    "rn": "igihumbi ku kilo",
+    "en": "One thousand a kilo"
+  },
+  {
+    "rn": "igihuna",
+    "en": "An owl"
+  },
+  {
+    "rn": "igikere",
+    "en": "A frog"
+  },
+  {
+    "rn": "igikiriza",
+    "en": "Chest"
+  },
+  {
+    "rn": "igikoko",
+    "en": "An animal"
+  },
+  {
+    "rn": "igikoko consa",
+    "en": "A mammal"
+  },
+  {
+    "rn": "igikoko gikwega inda hasi",
+    "en": "A reptile"
+  },
+  {
+    "rn": "igikoko kiba mu mazi",
+    "en": "An amphibian"
+  },
+  {
+    "rn": "igikoko kirya inyama",
+    "en": "Carnivorous"
+  },
+  {
+    "rn": "igikoko kirya ivyatsi",
+    "en": "Herbivorous"
+  },
+  {
+    "rn": "igikona",
+    "en": "A crow"
+  },
+  {
+    "rn": "igikumu",
+    "en": "Thumb"
+  },
+  {
+    "rn": "igipimo c`amaraso",
+    "en": "Blood test"
+  },
+  {
+    "rn": "igisirikare",
+    "en": "THE ARMY"
+  },
+  {
+    "rn": "igisokozo",
+    "en": "Comb"
+  },
+  {
+    "rn": "igisurira(ikinyamudaru)",
+    "en": "A big ant"
+  },
+  {
+    "rn": "igitanda",
+    "en": "Bed"
+  },
+  {
+    "rn": "igitangurirwa",
+    "en": "A spider"
+  },
+  {
+    "rn": "igitigu",
+    "en": "Liver"
+  },
+  {
+    "rn": "igitugu",
+    "en": "Shoulder"
+  },
+  {
+    "rn": "igitunguru",
+    "en": "Onion"
+  },
+  {
+    "rn": "igituntu",
+    "en": "Tuberculosis"
+  },
+  {
+    "rn": "ihaha",
+    "en": "Lung"
+  },
+  {
+    "rn": "ihembe",
+    "en": "A horn"
+  },
+  {
+    "rn": "ihinguriro",
+    "en": "Factory"
+  },
+  {
+    "rn": "ijana",
+    "en": "One hundred"
+  },
+  {
+    "rn": "ijipo",
+    "en": "Skirt"
+  },
+  {
+    "rn": "ijipo ngufi (impenerezo)",
+    "en": "Mini-skirt"
+  },
+  {
+    "rn": "ijisho",
+    "en": "An eye"
+  },
+  {
+    "rn": "ijoro",
+    "en": "Night"
+  },
+  {
+    "rn": "ikambambiri",
+    "en": "Flip-flops"
+  },
+  {
+    "rn": "ikanzu",
+    "en": "Dress, gown"
+  },
+  {
+    "rn": "ikaruvati",
+    "en": "Tie"
+  },
+  {
+    "rn": "ikawa",
+    "en": "coffee"
+  },
+  {
+    "rn": "Iki kiyago kirakwereka uko bera canke uko bahakana ico naka aguhaye canke ico yipfuza kugukorera",
+    "en": "These English dialogues show you how to accept or reject offers made to you."
+  },
+  {
+    "rn": "ikiganza",
+    "en": "Hand"
+  },
+  {
+    "rn": "ikijumba",
+    "en": "Sweet potato"
+  },
+  {
+    "rn": "ikijuri",
+    "en": "A sparrow"
+  },
+  {
+    "rn": "ikilo c`umuceri n`angahe",
+    "en": "How much is a kilo of rice"
+  },
+  {
+    "rn": "ikinini",
+    "en": "Tablet"
+  },
+  {
+    "rn": "ikinyamasyo",
+    "en": "A tortoise"
+  },
+  {
+    "rn": "ikinyobwa",
+    "en": "A drink"
+  },
+  {
+    "rn": "ikinyugunyugu",
+    "en": "A butterfly"
+  },
+  {
+    "rn": "ikiraya",
+    "en": "Potato"
+  },
+  {
+    "rn": "ikirenge",
+    "en": "Foot"
+  },
+  {
+    "rn": "ikirimba",
+    "en": "Presidency"
+  },
+  {
+    "rn": "IKIRUNDI KU NGURUKANABUMENYI",
+    "en": "KIRUNDI ON THE INTERNET"
+  },
+  {
+    "rn": "Ikirundi ni ururimi ruvugwa n'abantu barenga imiriyoni icenda",
+    "en": "Kirundi is a language spoken by more than 9 million"
+  },
+  {
+    "rn": "ikirundi ni ururimi rwemewe n'amategeko kandi rukoreshwa mu gihugu c'Uburundi",
+    "en": "kirundi is a language accepted by law and is used in burundi"
+  },
+  {
+    "rn": "ikirwanisho",
+    "en": "Gun"
+  },
+  {
+    "rn": "IKIYAGO CA NIKIZA NA JANE BAHWANYE",
+    "en": "NIKIZA AND JENNY MEET"
+  },
+  {
+    "rn": "ikiyeri",
+    "en": "Primus beer"
+  },
+  {
+    "rn": "ikiyiko",
+    "en": "Spoon"
+  },
+  {
+    "rn": "ikiyiko co kwaruza",
+    "en": "Serving spoon"
+  },
+  {
+    "rn": "ikiyo; indorerwamwo",
+    "en": "Mirror"
+  },
+  {
+    "rn": "ikiza",
+    "en": "Epidemic"
+  },
+  {
+    "rn": "ikoti ry'imvura",
+    "en": "Rain coat"
+  },
+  {
+    "rn": "ikoti(costume)",
+    "en": "Costume"
+  },
+  {
+    "rn": "imamfu",
+    "en": "Gorilla"
+  },
+  {
+    "rn": "imbata",
+    "en": "A duck"
+  },
+  {
+    "rn": "imbeba",
+    "en": "A rat"
+  },
+  {
+    "rn": "imbere y'igihe",
+    "en": "Before time"
+  },
+  {
+    "rn": "imbogo",
+    "en": "A buffalo"
+  },
+  {
+    "rn": "imbombo",
+    "en": "Sweets"
+  },
+  {
+    "rn": "imbuguta",
+    "en": "Knife"
+  },
+  {
+    "rn": "Imbwa",
+    "en": "Dog"
+  },
+  {
+    "rn": "imbwa",
+    "en": "A dog"
+  },
+  {
+    "rn": "imfungurwa",
+    "en": "FOODS"
+  },
+  {
+    "rn": "Imfungurwa",
+    "en": "Amajambo nkenerwa"
+  },
+  {
+    "rn": "imigozi y`ibirato",
+    "en": "Shoestring, shoeleece"
+  },
+  {
+    "rn": "iminsi n'amezi",
+    "en": "DAYS AND MONTHS"
+  },
+  {
+    "rn": "imiriyoni",
+    "en": "One million"
+  },
+  {
+    "rn": "imiriyoni zibiri",
+    "en": "Two million"
+  },
+  {
+    "rn": "imiswi",
+    "en": "Chicks"
+  },
+  {
+    "rn": "imiswi y'imbata",
+    "en": "Duckling"
+  },
+  {
+    "rn": "imokari y`intambara",
+    "en": "War bus"
+  },
+  {
+    "rn": "imparage",
+    "en": "A zebra"
+  },
+  {
+    "rn": "impene",
+    "en": "A goat"
+  },
+  {
+    "rn": "impindurabihe(kirimatizeri)",
+    "en": "Air conditioner"
+  },
+  {
+    "rn": "impongo",
+    "en": "Antelope"
+  },
+  {
+    "rn": "impuzu",
+    "en": "Outfit"
+  },
+  {
+    "rn": "impuzu bambara mw`ijoro",
+    "en": "Night suit"
+  },
+  {
+    "rn": "impuzu zo kwinonoramwo imitsi",
+    "en": "Sportswear"
+  },
+  {
+    "rn": "impuzu zo musi(isengeri, ikareso)",
+    "en": "Underwears"
+  },
+  {
+    "rn": "imvubu",
+    "en": "A hippopotamus"
+  },
+  {
+    "rn": "inama rukokoma",
+    "en": "General meeting"
+  },
+  {
+    "rn": "inama y`abarohera",
+    "en": "A group of guerillas"
+  },
+  {
+    "rn": "inanasi",
+    "en": "Pineapple"
+  },
+  {
+    "rn": "incuti",
+    "en": "Relatives"
+  },
+  {
+    "rn": "incuti n`abagenzi",
+    "en": "Friends and relatives"
+  },
+  {
+    "rn": "inda",
+    "en": "A louse"
+  },
+  {
+    "rn": "indamukanyo",
+    "en": "GREETINGS"
+  },
+  {
+    "rn": "indamutso z'urupfasoni",
+    "en": "Formal greetings"
+  },
+  {
+    "rn": "indamutso zikoreshwa n'abangana,abamenyeranye na cane cane abakiri bato",
+    "en": "Informal greetings"
+  },
+  {
+    "rn": "indimu",
+    "en": "Lemon"
+  },
+  {
+    "rn": "indobo",
+    "en": "Bucket"
+  },
+  {
+    "rn": "indome mu congereza",
+    "en": "ENGLISH ALPHABETS"
+  },
+  {
+    "rn": "indwano",
+    "en": "War"
+  },
+  {
+    "rn": "Indwara",
+    "en": "Sickness, illness, Disease"
+  },
+  {
+    "rn": "indwara y`igisukari",
+    "en": "Diabetes"
+  },
+  {
+    "rn": "indwara y`umutima",
+    "en": "Heart desease"
+  },
+  {
+    "rn": "indwara yandukira",
+    "en": "Contagious illness"
+  },
+  {
+    "rn": "indwara yo ku rukoba",
+    "en": "Skin disease"
+  },
+  {
+    "rn": "indwara z`abana",
+    "en": "Paediatrics"
+  },
+  {
+    "rn": "indwi",
+    "en": "Seven"
+  },
+  {
+    "rn": "indwi iheze",
+    "en": "Last week"
+  },
+  {
+    "rn": "indwi iza",
+    "en": "Next week"
+  },
+  {
+    "rn": "ingamiya",
+    "en": "A camel"
+  },
+  {
+    "rn": "Ingene basaba canke uko babaza ibintu runaka mucongereza",
+    "en": "HOW TO ASK FOR THINGS IN ENGLISH "
+  },
+  {
+    "rn": "Ingene basaba ibintu",
+    "en": "HOW TO ASK FOR THINGS"
+  },
+  {
+    "rn": "ingeregere",
+    "en": "A gazelle"
+  },
+  {
+    "rn": "ingo",
+    "en": "come"
+  },
+  {
+    "rn": "ingona",
+    "en": "A crocodile"
+  },
+  {
+    "rn": "ingozi",
+    "en": "Leather"
+  },
+  {
+    "rn": "ingurube",
+    "en": "A pig"
+  },
+  {
+    "rn": "Ingwara zidakaze",
+    "en": "Mild illness"
+  },
+  {
+    "rn": "inka",
+    "en": "A cow"
+  },
+  {
+    "rn": "inkende",
+    "en": "A monkey"
+  },
+  {
+    "rn": "inkofero",
+    "en": "Cap, Hat"
+  },
+  {
+    "rn": "inkoko",
+    "en": "Chicken"
+  },
+  {
+    "rn": "inkokora",
+    "en": "Elbow"
+  },
+  {
+    "rn": "inkona",
+    "en": "An eagle"
+  },
+  {
+    "rn": "ino",
+    "en": "Toe"
+  },
+  {
+    "rn": "intama",
+    "en": "A sheep"
+  },
+  {
+    "rn": "intamba",
+    "en": "A swallow"
+  },
+  {
+    "rn": "intare",
+    "en": "A lion"
+  },
+  {
+    "rn": "inuma",
+    "en": "A pigeon"
+  },
+  {
+    "rn": "inuma, injiwa",
+    "en": "A dove"
+  },
+  {
+    "rn": "inyama",
+    "en": "Meat"
+  },
+  {
+    "rn": "inyenyeri",
+    "en": "Stars"
+  },
+  {
+    "rn": "Inyishu",
+    "en": "Responses"
+  },
+  {
+    "rn": "Inyishu ziremesha",
+    "en": "Sympathetic responses"
+  },
+  {
+    "rn": "inyoni",
+    "en": "A bird"
+  },
+  {
+    "rn": "inyota",
+    "en": "Thirst"
+  },
+  {
+    "rn": "inyungu",
+    "en": "Profit"
+  },
+  {
+    "rn": "inzanakayaga (vantirateri)",
+    "en": "Fan"
+  },
+  {
+    "rn": "inzara",
+    "en": "Hunger"
+  },
+  {
+    "rn": "inzini ikomeje intambara",
+    "en": "Fighter plane"
+  },
+  {
+    "rn": "inzoga",
+    "en": "Beer"
+  },
+  {
+    "rn": "inzoka",
+    "en": "A snake"
+  },
+  {
+    "rn": "inzovu",
+    "en": "An elephant"
+  },
+  {
+    "rn": "inzu",
+    "en": "house"
+  },
+  {
+    "rn": "inzu y'igitangurirwa",
+    "en": "A spider-web"
+  },
+  {
+    "rn": "ipapari, igipapayi",
+    "en": "Papaya"
+  },
+  {
+    "rn": "ipataro",
+    "en": "Trousers"
+  },
+  {
+    "rn": "ipete",
+    "en": "Rank"
+  },
+  {
+    "rn": "ipfupfu",
+    "en": "A hump"
+  },
+  {
+    "rn": "ipuderi",
+    "en": "Powder"
+  },
+  {
+    "rn": "irigi",
+    "en": "Egg"
+  },
+  {
+    "rn": "iruhu, urukoba, urusato",
+    "en": "A skin"
+  },
+  {
+    "rn": "irwego rwa gisirikare",
+    "en": "Staff"
+  },
+  {
+    "rn": "iryinyo",
+    "en": "Tooth"
+  },
+  {
+    "rn": "iryoya",
+    "en": "A feather"
+  },
+  {
+    "rn": "isabuni",
+    "en": "Soap"
+  },
+  {
+    "rn": "isaha",
+    "en": "An hour"
+  },
+  {
+    "rn": "isaha (indoramwanya)",
+    "en": "A watch"
+  },
+  {
+    "rn": "Isaha 8 uyivuzeko iki?",
+    "en": "How does 2pm sound to you?"
+  },
+  {
+    "rn": "isaha yo kugihome",
+    "en": "Clock"
+  },
+  {
+    "rn": "isahani nini",
+    "en": "Dinner plate"
+  },
+  {
+    "rn": "isake",
+    "en": "A rooster, a cock"
+  },
+  {
+    "rn": "isango",
+    "en": "Appointment"
+  },
+  {
+    "rn": "isazi",
+    "en": "A fly"
+  },
+  {
+    "rn": "ishati,ishimizi",
+    "en": "Shirt"
+  },
+  {
+    "rn": "ishuka",
+    "en": "Bed sheet"
+  },
+  {
+    "rn": "isoko",
+    "en": "Market"
+  },
+  {
+    "rn": "isosiso",
+    "en": "Sausage"
+  },
+  {
+    "rn": "isukari",
+    "en": "Sugar"
+  },
+  {
+    "rn": "isupu",
+    "en": "Soup"
+  },
+  {
+    "rn": "itako (ikibero)",
+    "en": "Thigh"
+  },
+  {
+    "rn": "itama",
+    "en": "Cheek"
+  },
+  {
+    "rn": "itapi",
+    "en": "Carpet"
+  },
+  {
+    "rn": "itegeko",
+    "en": "Commandment"
+  },
+  {
+    "rn": "itegereze neza",
+    "en": "Note well"
+  },
+  {
+    "rn": "itera ry`umutima",
+    "en": "Heart rate"
+  },
+  {
+    "rn": "ivi",
+    "en": "Knee"
+  },
+  {
+    "rn": "ivubi",
+    "en": "A wasp"
+  },
+  {
+    "rn": "ivuriro",
+    "en": "Health center"
+  },
+  {
+    "rn": "ivyambarwa impuzu n'ibirato",
+    "en": "DRESSING CLOTHES AND SHOES "
+  },
+  {
+    "rn": "IVYAMWA",
+    "en": "Fruit"
+  },
+  {
+    "rn": "Ivyo umuntu akeka(ko vyabaye)",
+    "en": "Disbelief"
+  },
+  {
+    "rn": "ivyo wokwandika ku kaganuke",
+    "en": "What to write on present tags"
+  },
+  {
+    "rn": "Iyi mpuzu ikozwe muki?",
+    "en": "What is this cloth made of?"
+  },
+  {
+    "rn": "iyi mpuzu ikozwe mw`ipampa",
+    "en": "This cloth is made in cotton"
+  },
+  {
+    "rn": "Iyo nkuru irababaje rwose.",
+    "en": "The news came as a complete shock."
+  },
+  {
+    "rn": "iyo udakunda kandi ntiwanke ikintu runaka.",
+    "en": "If you neither like nor dislike something"
+  },
+  {
+    "rn": "iyo udashaka(udakeneye) ikintu runaka.",
+    "en": "If you don't like something"
+  },
+  {
+    "rn": "iyo ukunda ikintu",
+    "en": "If you love something"
+  },
+  {
+    "rn": "iyo ukunda ikintu .",
+    "en": "If you like something"
+  },
+  {
+    "rn": "iyo ukunda ikintu cane.",
+    "en": "If you like something a lot"
+  },
+  {
+    "rn": "iyo uriko utanga akaganuke umuntu uzi neza",
+    "en": "When you are giving a present to someone you know well"
+  },
+  {
+    "rn": "Iyo wihuta",
+    "en": "When in hurry"
+  },
+  {
+    "rn": "izosi",
+    "en": "Neck"
+  },
+  {
+    "rn": "izuba",
+    "en": "Sun"
+  },
+  {
+    "rn": "izuba riserutse",
+    "en": "At the sunrise"
+  },
+  {
+    "rn": "izuru",
+    "en": "Nose"
+  },
+  {
+    "rn": "kanseri",
+    "en": "Cancer"
+  },
+  {
+    "rn": "Karasanzwe, yamara ndazi ko kakunezera",
+    "en": "It's only something small, but I hope you'll like it."
+  },
+  {
+    "rn": "Kenshi na kekenshi abakoresha icongereza barakunda gutanga utuganuke iyo bari mu kiyago ca misi yose",
+    "en": "English speakers make offers all the time in conversation."
+  },
+  {
+    "rn": "kigurwa angahe",
+    "en": "How much does it cost?"
+  },
+  {
+    "rn": "kimwe",
+    "en": "One"
+  },
+  {
+    "rn": "kimyozi",
+    "en": "A barber"
+  },
+  {
+    "rn": "kizimbutse",
+    "en": "Cheap"
+  },
+  {
+    "rn": "kizimvye",
+    "en": "Expensive"
+  },
+  {
+    "rn": "komanda",
+    "en": "Commander"
+  },
+  {
+    "rn": "koroneri",
+    "en": "Colonel"
+  },
+  {
+    "rn": "ku kirenga zuba",
+    "en": "At the sunset"
+  },
+  {
+    "rn": "kubabara mu maso",
+    "en": "To have pain in the eyes"
+  },
+  {
+    "rn": "kubabara mu matwi",
+    "en": "To have pain in ears"
+  },
+  {
+    "rn": "kubagwa",
+    "en": "Surgery"
+  },
+  {
+    "rn": "kubaho nabi",
+    "en": "To live a cat and dog`s life"
+  },
+  {
+    "rn": "kubaza",
+    "en": "ASKING"
+  },
+  {
+    "rn": "Kubaza",
+    "en": "Lesson three"
+  },
+  {
+    "rn": "kubaza aho umuntu aba",
+    "en": "Asking where someone lives"
+  },
+  {
+    "rn": "kubaza iyumuntu agiye",
+    "en": "Asking direction where to"
+  },
+  {
+    "rn": "kubaza ko wokora ikintu runaka",
+    "en": "Asking if you can do something"
+  },
+  {
+    "rn": "kubaza uko umuntu yitwa",
+    "en": "Asking how someone is called"
+  },
+  {
+    "rn": "kubeshwaho",
+    "en": "To live on"
+  },
+  {
+    "rn": "kubeshwaho n`ibiharage",
+    "en": "To live on beans"
+  },
+  {
+    "rn": "kugihe",
+    "en": "On time"
+  },
+  {
+    "rn": "kugira amagara meza",
+    "en": "To be in good health"
+  },
+  {
+    "rn": "kugurisha",
+    "en": "To sell"
+  },
+  {
+    "rn": "kugurishwa",
+    "en": "To be sold"
+  },
+  {
+    "rn": "kugurwa",
+    "en": "To be bought"
+  },
+  {
+    "rn": "kuja kubutegetsi",
+    "en": "To ascend the throne"
+  },
+  {
+    "rn": "kuja mu vya politike",
+    "en": "To be in politics"
+  },
+  {
+    "rn": "Kuki utotaha ukaraba aho uba urirambitse (uraryamye)?",
+    "en": "Why don't you go home and have a lie-down."
+  },
+  {
+    "rn": "kumira bunguri",
+    "en": "To swallow"
+  },
+  {
+    "rn": "kumugoroba",
+    "en": "In the evening"
+  },
+  {
+    "rn": "kumuhingamo",
+    "en": "In the afternoon"
+  },
+  {
+    "rn": "kumvikana ku mwanya(igihe ,isaha)",
+    "en": "Setting a time"
+  },
+  {
+    "rn": "kunywa",
+    "en": "To drink"
+  },
+  {
+    "rn": "kurahira",
+    "en": "To take the oath"
+  },
+  {
+    "rn": "kurengutsa umuntu imbere y`ubutungane",
+    "en": "To bring somebody to justice"
+  },
+  {
+    "rn": "Kuri izina n'akanyamuneza ntangere",
+    "en": "To name with love from name"
+  },
+  {
+    "rn": "kuri Niyonkuru Samuel n'akanyamuneza ntangere bivuye kwa Nikiza Mark",
+    "en": "To Niyonkuru Samuel with love from Nikiza Mark"
+  },
+  {
+    "rn": "kuribwa iryinyo",
+    "en": "To have toothache"
+  },
+  {
+    "rn": "kuribwa mu kiganza",
+    "en": "To have pain in hand"
+  },
+  {
+    "rn": "kuribwa ukuboko",
+    "en": "To have an armache"
+  },
+  {
+    "rn": "kuribwa ukuguru",
+    "en": "To have pain in the leg"
+  },
+  {
+    "rn": "kuribwa umutwe",
+    "en": "To have headache"
+  },
+  {
+    "rn": "kuriha",
+    "en": "To pay"
+  },
+  {
+    "rn": "kurwara",
+    "en": "To be ill/sick"
+  },
+  {
+    "rn": "kuvuga ivya politike",
+    "en": "To talk politics"
+  },
+  {
+    "rn": "kuvura",
+    "en": "To cure, to nurse"
+  },
+  {
+    "rn": "kuwa gatanu wokubera mwiza?",
+    "en": "Would Friday suit you?"
+  },
+  {
+    "rn": "Kuwa kane ni mwiza kuri je.",
+    "en": "Thursday suits me."
+  },
+  {
+    "rn": "Kuwa kane woba mwiza kurusha.",
+    "en": "Thursday would be perfect."
+  },
+  {
+    "rn": "kuziganya",
+    "en": "To save"
+  },
+  {
+    "rn": "kw`itegeko rya majoro",
+    "en": "On Major`s command"
+  },
+  {
+    "rn": "kwanda (imitereko)",
+    "en": "To heap up"
+  },
+  {
+    "rn": "kwanka",
+    "en": "Declining"
+  },
+  {
+    "rn": "kwemera",
+    "en": "Accepting"
+  },
+  {
+    "rn": "Kwemeranya kw'isango",
+    "en": "Agreeing on a date"
+  },
+  {
+    "rn": "kwica",
+    "en": "To kill"
+  },
+  {
+    "rn": "kwisuka mu vya politike",
+    "en": "To go into politics"
+  },
+  {
+    "rn": "majoro",
+    "en": "Major"
+  },
+  {
+    "rn": "mama",
+    "en": "The mother"
   },
   {
     "rn": "mama afise isuka ku rutugu",
     "en": ""
   },
   {
+    "rn": "marariya (inyonko)",
+    "en": "Malaria"
+  },
+  {
+    "rn": "marume",
+    "en": "Uncle"
+  },
+  {
+    "rn": "mbe no?",
+    "en": "Shall I ?"
+  },
+  {
+    "rn": "Mbe uzoba ufise akanya k'umunsi wa kane uza?",
+    "en": "Are you free next Thursday?"
+  },
+  {
+    "rn": "Mbega umutima mwiza!",
+    "en": "How kind of you!"
+  },
+  {
+    "rn": "Mbonako bitokunda kuwa gatatu. Ubona gute tubonanye kuwa 6?",
+    "en": "I'm afraid I can't on the 3rd. What about the 6th?"
+  },
+  {
+    "rn": "Menyaneza ko ikoreshwa ry'utu tujambo mu congererza bituma ushobora kwemera canke guhakana icipfuzo ca naka mu rupfasoni",
+    "en": "Note well Using these common English phrases you are able to accept and reject offers that make you sound polite and helpful."
+  },
+  {
+    "rn": "mirongo ibiri",
+    "en": "Twenty"
+  },
+  {
+    "rn": "mirongo ibiri n'icenda",
+    "en": "Twenty-nine"
+  },
+  {
+    "rn": "mirongo ibiri n'indwi",
+    "en": "Twenty-seven"
+  },
+  {
+    "rn": "mirongo ibiri n'umunani",
+    "en": "Twenty-eight"
+  },
+  {
+    "rn": "mirongo ibiri na gatandatu",
+    "en": "Twenty-six"
+  },
+  {
+    "rn": "mirongo ibiri na gatanu",
+    "en": "Twenty-five"
+  },
+  {
+    "rn": "mirongo ibiri na gatatu",
+    "en": "Twenty-three"
+  },
+  {
+    "rn": "mirongo ibiri na kabiri",
+    "en": "Twenty-two"
+  },
+  {
+    "rn": "mirongo ibiri na kane",
+    "en": "Twenty-four"
+  },
+  {
+    "rn": "mirongo ibiri na rimwe",
+    "en": "Twenty-one"
+  },
+  {
+    "rn": "mirongo icenda",
+    "en": "Ninety"
+  },
+  {
+    "rn": "mirongo icenda n'icenda",
+    "en": "Ninety-nine"
+  },
+  {
+    "rn": "mirongo icenda n'indwi",
+    "en": "Ninety-seven"
+  },
+  {
+    "rn": "mirongo icenda n'umunani",
+    "en": "Ninety-eight"
+  },
+  {
+    "rn": "mirongo icenda na gatandatu",
+    "en": "Ninety-six"
+  },
+  {
+    "rn": "mirongo icenda na gatanu",
+    "en": "Ninety-five"
+  },
+  {
+    "rn": "mirongo icenda na gatatu",
+    "en": "Ninety-three"
+  },
+  {
+    "rn": "mirongo icenda na kabiri",
+    "en": "Ninety-two"
+  },
+  {
+    "rn": "mirongo icenda na kane",
+    "en": "Ninety-four"
+  },
+  {
+    "rn": "mirongo icenda na rimwe",
+    "en": "Ninety-one"
+  },
+  {
+    "rn": "mirongo ine",
+    "en": "Forty"
+  },
+  {
+    "rn": "mirongo ine n'icenda",
+    "en": "Forty-nine"
+  },
+  {
+    "rn": "mirongo ine n'indwi",
+    "en": "Forty-seven"
+  },
+  {
+    "rn": "mirongo ine n'umunani",
+    "en": "Forty-eight"
+  },
+  {
+    "rn": "mirongo ine na gatandatu",
+    "en": "Forty-six"
+  },
+  {
+    "rn": "mirongo ine na gatanu",
+    "en": "Forty-five"
+  },
+  {
+    "rn": "mirongo ine na gatatu",
+    "en": "Forty-three"
+  },
+  {
+    "rn": "mirongo ine na kabiri",
+    "en": "Forty-two"
+  },
+  {
+    "rn": "mirongo ine na kane",
+    "en": "Forty-four"
+  },
+  {
+    "rn": "mirongo ine na rimwe",
+    "en": "Forty-one"
+  },
+  {
+    "rn": "mirongo irindwi n'icenda",
+    "en": "Seventy-nine"
+  },
+  {
+    "rn": "mirongo irindwi n'indwi",
+    "en": "Seventy-seven"
+  },
+  {
+    "rn": "mirongo irindwi n'umunani",
+    "en": "Seventy-eight"
+  },
+  {
+    "rn": "mirongo irindwi na gatandatu",
+    "en": "Seventy-six"
+  },
+  {
+    "rn": "mirongo irindwi na gatanu",
+    "en": "Seventy-five"
+  },
+  {
+    "rn": "mirongo irindwi na gatatu",
+    "en": "Seventy-three"
+  },
+  {
+    "rn": "mirongo irindwi na kabiri",
+    "en": "Seventy-two"
+  },
+  {
+    "rn": "mirongo irindwi na kane",
+    "en": "Seventy-four"
+  },
+  {
+    "rn": "mirongo irindwi na rimwe",
+    "en": "Seventy-one"
+  },
+  {
+    "rn": "mirongo itandatu",
+    "en": "Sixty"
+  },
+  {
+    "rn": "mirongo itandatu n'icenda",
+    "en": "Sixty-nine"
+  },
+  {
+    "rn": "mirongo itandatu n'indwi",
+    "en": "Sixty-seven"
+  },
+  {
+    "rn": "mirongo itandatu n'umunani",
+    "en": "Sixty-eight"
+  },
+  {
+    "rn": "mirongo itandatu na bibiri",
+    "en": "Sixty-two"
+  },
+  {
+    "rn": "mirongo itandatu na gatandatu",
+    "en": "Sixty-six"
+  },
+  {
+    "rn": "mirongo itandatu na gatanu",
+    "en": "Sixty-five"
+  },
+  {
+    "rn": "mirongo itandatu na gatatu",
+    "en": "Sixty-three"
+  },
+  {
+    "rn": "mirongo itandatu na kane",
+    "en": "Sixty-four"
+  },
+  {
+    "rn": "mirongo itandatu na rimwe",
+    "en": "Sixty-one"
+  },
+  {
+    "rn": "mirongo itanu",
+    "en": "Fifty"
+  },
+  {
+    "rn": "mirongo itanu n'icenda",
+    "en": "Fifty-nine"
+  },
+  {
+    "rn": "mirongo itanu n'indwi",
+    "en": "Fifty-seven"
+  },
+  {
+    "rn": "mirongo itanu n'umunani",
+    "en": "Fifty-eight"
+  },
+  {
+    "rn": "mirongo itanu na bibiri",
+    "en": "Fifty-two"
+  },
+  {
+    "rn": "mirongo itanu na bine",
+    "en": "Fifty-four"
+  },
+  {
+    "rn": "mirongo itanu na bitanu",
+    "en": "Fifty-five"
+  },
+  {
+    "rn": "mirongo itanu na gatandatu",
+    "en": "Fifty-six"
+  },
+  {
+    "rn": "mirongo itanu na gatatu",
+    "en": "Fifty-three"
+  },
+  {
+    "rn": "mirongo itanu na rimwe",
+    "en": "Fifty-one"
+  },
+  {
+    "rn": "mirongo itatu",
+    "en": "Thirty"
+  },
+  {
+    "rn": "mirongo itatu n'icenda",
+    "en": "Thirty-nine"
+  },
+  {
+    "rn": "mirongo itatu n'indwi",
+    "en": "Thirty-seven"
+  },
+  {
+    "rn": "mirongo itatu n'umunani",
+    "en": "Thirty-eight"
+  },
+  {
+    "rn": "mirongo itatu na gatandatu",
+    "en": "Thirty-six"
+  },
+  {
+    "rn": "mirongo itatu na gatanu",
+    "en": "Thirty-five"
+  },
+  {
+    "rn": "mirongo itatu na gatatu",
+    "en": "Thirty-three"
+  },
+  {
+    "rn": "mirongo itatu na kabiri",
+    "en": "Thirty-two"
+  },
+  {
+    "rn": "mirongo itatu na kane",
+    "en": "Thirty-four"
+  },
+  {
+    "rn": "mirongo itatu na rimwe",
+    "en": "Thirty-one"
+  },
+  {
+    "rn": "mirongo umunani",
+    "en": "Eighty"
+  },
+  {
+    "rn": "mirongo umunani n'icenda",
+    "en": "Eighty-nine"
+  },
+  {
+    "rn": "mirongo umunani n'indwi",
+    "en": "Eighty-seven"
+  },
+  {
+    "rn": "mirongo umunani n'umunani",
+    "en": "Eighty-eight"
+  },
+  {
+    "rn": "mirongo umunani na gatandatu",
+    "en": "Eighty-six"
+  },
+  {
+    "rn": "mirongo umunani na gatanu",
+    "en": "Eighty-five"
+  },
+  {
+    "rn": "mirongo umunani na gatatu",
+    "en": "Eighty-three"
+  },
+  {
+    "rn": "mirongo umunani na kabiri",
+    "en": "Eighty-two"
+  },
+  {
+    "rn": "mirongo umunani na kane",
+    "en": "Eighty-four"
+  },
+  {
+    "rn": "mirongo umunani na rimwe",
+    "en": "Eighty-one"
+  },
+  {
+    "rn": "Mpore, birababaje",
+    "en": "I'm sorry to hear that."
+  },
+  {
+    "rn": "Mpore, rekandabe uwuza kuyisuzuma.",
+    "en": "I'm sorry , I'll get someone to check it for you."
+  },
+  {
+    "rn": "mu bihe vyiza",
+    "en": "In good condition"
+  },
+  {
+    "rn": "mu mwambaro w`abanyagihugu",
+    "en": "In civilian clothes"
+  },
+  {
+    "rn": "muganga",
+    "en": "Doctor"
+  },
+  {
+    "rn": "mugitondo",
+    "en": "Morning"
+  },
+  {
+    "rn": "mukaso",
+    "en": "Step mother"
+  },
+  {
+    "rn": "mumvugo yiyubashe cane",
+    "en": "In more formal situations"
+  },
+  {
+    "rn": "Murakenuye.",
+    "en": "That's very kind of you, thanks."
+  },
+  {
+    "rn": "Murakoze cane! Birahimbaye/biratangaje/ nivyiza cane",
+    "en": "Thank you so much! It's lovely / fantastic / wonderful."
+  },
+  {
+    "rn": "murakoze,ndacariko ndihweza(mw'iduka)",
+    "en": "No ,thanks. I'm just looking. (In a shop.)"
+  },
+  {
+    "rn": "Murantunga gato, hari akazu ku buriro ngaha hafi?",
+    "en": "Excuse me for a bit could you tell me if there's a restaurant near here?"
+  },
+  {
+    "rn": "Murantunga gato, hariho akagorane ku nsusuruzi(imashini isusurutsa) mu cumba canje.",
+    "en": "Sorry to bother you, but I think there's something wrong with the air-conditioning."
+  },
+  {
+    "rn": "Murantunga mupfaso, woba ufise ikaramu yanje aho?",
+    "en": "Excuse me Madam; do you have my pen on you?"
+  },
+  {
+    "rn": "Murantunga, iyi yoba iriyo nzira ija ku biro vya posita?",
+    "en": "Excuse me, is this the right way for the Post Office?"
+  },
+  {
+    "rn": "Murantunga, murandabire umuzigo wanje.",
+    "en": "Excuse me, would you mind keeping an eye on my luggage?"
+  },
+  {
+    "rn": "murantunga, mwampaye ingaru idakwiye. Canke Murantunga,ndibazako mwampaye ingaru idakwiye ntabwo nabahaye 5000 nabahaye 10000",
+    "en": "Excuse me, I think you've given me the wrong change, or Sorry, I think this change is wrong. I gave you 10.000Fbu, not 5.000Fbu."
+  },
+  {
+    "rn": "Murantunga, mwonyemerera kongura ideni?",
+    "en": "excuse me, do you accept me to buy it on credit?"
+  },
+  {
+    "rn": "Murantunga, nibazako mwokwegeza imodoka yanyu inyuma gato",
+    "en": "Excuse me; i wonder if you could move your car back a little."
+  },
+  {
+    "rn": "Murantunga; mwomenyera Umuyobozi ari mu biro?",
+    "en": "Excuse me; do you know if the headmaster is in the office?"
+  },
+  {
+    "rn": "Murantunge, nzoba mfatiriwe n'ayandi mabanga.",
+    "en": "I'm really sorry, but I've got something else on."
+  },
+  {
+    "rn": "Muri uyu mwanya ntibikunda ko nsinzira neza nsa nuwugira ayame",
+    "en": "I'm not sleeping very well at the moment. I feel a little faint."
+  },
+  {
+    "rn": "musazanje, mwenewacu",
+    "en": "My brother"
+  },
+  {
+    "rn": "mushikanje, mwene wacu",
+    "en": "My sister"
+  },
+  {
+    "rn": "musi y`itegeko rya coloneli",
+    "en": "Under the command of colonel"
+  },
+  {
+    "rn": "musitashe",
+    "en": "Moustache"
+  },
+  {
+    "rn": "muzoba mukoze",
+    "en": "Or, Thank you that would be great."
+  },
+  {
+    "rn": "Mw'iduka",
+    "en": "In a shop"
+  },
+  {
+    "rn": "mw'Ihoteri",
+    "en": "In a hotel"
+  },
+  {
+    "rn": "mw`ijoro",
+    "en": "At night"
+  },
+  {
+    "rn": "Mwaramutse! Mwompa inomero yanyu ya terefone?",
+    "en": "Good morning! Could you give your phone number please?"
+  },
+  {
+    "rn": "Mwiriwe! Mwondangira inzira ija mu Buyenzi?",
+    "en": "Good evening! Can you show me the way to Buyenzi?"
+  },
+  {
+    "rn": "mwobikunda ko nda?",
+    "en": "Would you like me to ?"
+  },
+  {
+    "rn": "Mwombwira izina ryanyu?",
+    "en": "Would mind telling me your name?"
+  },
+  {
+    "rn": "Mwondangira Mariko?",
+    "en": "Can you get me Mr. Mark please?"
+  },
+  {
+    "rn": "Mwonzanira igikombe c'icayi?",
+    "en": "Could I have a cup of tea please?"
+  },
+  {
+    "rn": "Nababaye kumva",
+    "en": "I was shocked to hear."
+  },
+  {
+    "rn": "Nafashwe n'inkorora y'agahehera.",
+    "en": "I've got a nasty cough."
+  },
+  {
+    "rn": "Nafashwe n'umusonga udahera mw'ivi",
+    "en": "I've got a nagging pain in my shoulder."
+  },
+  {
+    "rn": "Naho ku bwawe gukoresha akajambo `sorry` bisa nkaho bidashemeye ku yamara abakoresha icongereza bo babifata nk'imvugo y'urupfasoni ifasha mugushikiriza akakubakiye canke mugusaba ikigongwe",
+    "en": "Although you may find it strange to use the word `sorry` when you complain, English speakers consider it polite. It will help you get what you want!"
+  },
+  {
+    "rn": "Namye ndacipfuza!",
+    "en": "It's something I've always wanted!"
+  },
+  {
+    "rn": "Ndabona ko bitankundira ko tubunana. Ntitwo hana irindi sango?",
+    "en": "I'm afraid that I'm not going to be able to meet you after all. Can we fix another time?"
+  },
+  {
+    "rn": "ndagize bwakeye",
+    "en": "Good morning!"
+  },
+  {
+    "rn": "Ndagize mwiriwe",
+    "en": "Good afternoon"
+  },
+  {
+    "rn": "Ndagufashe?",
+    "en": "Can I help you?"
+  },
+  {
+    "rn": "Ndakomeye ",
+    "en": "I' m fine "
+  },
+  {
+    "rn": "Ndakuguririre urugi?",
+    "en": "Shall I open the window for you?"
+  },
+  {
+    "rn": "Ndakugururire idirisha?",
+    "en": "Shall I open the window for you?"
+  },
+  {
+    "rn": "Ndakunda gufungura ifi.",
+    "en": "I love eating fish."
+  },
+  {
+    "rn": "Ndakunda guteka",
+    "en": "I like cooking."
+  },
+  {
+    "rn": "ndakunda kuririmba",
+    "en": "I adore singing."
+  },
+  {
+    "rn": "Ndakunda kwoga cane",
+    "en": "I like swimming very much."
+  },
+  {
+    "rn": "Ndakwongere iyindi kawa?",
+    "en": "Would you like another coffee?"
+  },
+  {
+    "rn": "ndakwongere iyindi kawa?(mwoba mwifuza iyindi kawa)",
+    "en": "Would you like another coffee?"
+  },
+  {
+    "rn": "Ndanka gutakaza umwanya",
+    "en": "I dislike wasting time."
+  },
+  {
+    "rn": "ndanyotewe",
+    "en": "I am thirsty"
+  },
+  {
+    "rn": "ndashima",
+    "en": "I'm in form"
+  },
+  {
+    "rn": "Ndashobora gukoresha mudasobwa(ordinateur) yawe?",
+    "en": "Can I use your computer, please?"
+  },
+  {
+    "rn": "ndashobora kugufasha?",
+    "en": "Can I help you?"
+  },
+  {
+    "rn": "ndibaza ko ataruhombo",
+    "en": "No loss I think"
+  },
+  {
+    "rn": "Ndikondaribwa n'umutwe canke kuribwa n'amenyo / umushishito / Umugongo",
+    "en": "I've got a slight headache. Or toothache / stomach ache / backache"
+  },
+  {
+    "rn": "ndishwe n`inzara",
+    "en": "I am starving"
+  },
+  {
+    "rn": "Ndwaye igicurane",
+    "en": "I have a touch of flu."
+  },
+  {
+    "rn": "Ngiye ku nzu y'ingenzi Gateri Guest House",
+    "en": "I'm departing to Gateri Guest House"
+  },
+  {
+    "rn": "Ni agahengwe",
+    "en": "I'm just ok"
+  },
+  {
+    "rn": "Ni gute?",
+    "en": "How are you keeping? "
+  },
+  {
+    "rn": "Ni igihe ki cokworohereza?",
+    "en": "What sort of time would suit you?"
+  },
+  {
+    "rn": "Ni vyiza",
+    "en": "I'm so cool "
+  },
+  {
+    "rn": "niba ubishaka( niba bitokurwa nabi)",
+    "en": "If you wouldn't mind. Or, If you could."
+  },
+  {
+    "rn": "Nimba atacobigutwaye nzogirisha fotokopi",
+    "en": "I'll do the photocopying, if you like."
+  },
+  {
+    "rn": "Nimba vyoshoboka nipfuzako twobonana mu gitondo",
+    "en": "If possible, I'd like to meet in the morning."
+  },
+  {
+    "rn": "Nimba wanka ikintu koko",
+    "en": "If you really dislike something"
+  },
+  {
+    "rn": "nirongo irindwi",
+    "en": "Seventy"
+  },
+  {
+    "rn": "Nisawa",
+    "en": "I'm just fine"
+  },
+  {
+    "rn": "Nivyiza",
+    "en": "I'm better and better"
+  },
+  {
+    "rn": "Nivyiza cane murakoze?",
+    "en": "That sounds lovely, thanks."
+  },
+  {
+    "rn": "Nivyiza, mura koze.",
+    "en": "I'd love to, thanks."
+  },
+  {
+    "rn": "niyumviyeko uzogakenera kuri noweri.",
+    "en": "I thought you might like this for Christmas day."
+  },
+  {
+    "rn": "nkokora nkono",
+    "en": "Index finger"
+  },
+  {
+    "rn": "Noshobora kuronka agasabune?",
+    "en": "Can I have a soap please?"
+  },
+  {
+    "rn": "nsumbazose",
+    "en": "Middle finger"
+  },
+  {
+    "rn": "ntaco bintwara gukora ibikorwa vyo munzu",
+    "en": "I don't mind doing the housework."
+  },
+  {
+    "rn": "ntakibazo ndabikora",
+    "en": "It's OK, I can do it. Or, Don't worry, I'll do it."
+  },
+  {
+    "rn": "Ntakunda gukinjika kenshi",
+    "en": "She doesn't like cooking very much."
+  },
+  {
+    "rn": "Ntashobora kwihanganira gukinjikira mu gikoni gicafuye",
+    "en": "She can't bear cooking in a dirty kitchen."
+  },
+  {
+    "rn": "Ntashobora kwihanganira shebuja",
+    "en": "He can't stand his boss."
+  },
+  {
+    "rn": "Ntibimuhimbara kwma akorera jardin",
+    "en": "He's not very fond of doing the gardening."
+  },
+  {
+    "rn": "ntikizimvye",
+    "en": "It's not expensive"
+  },
+  {
+    "rn": "Ntukishure ukoresheje yes,I would yonyene kuko biboneka nkaho umengo ukeneye ko uwundi abigukorera",
+    "en": "Don't answer Yes, I would, as this sounds like you expect someone to do it for you."
+  },
+  {
+    "rn": "Numa ntamerewe neza",
+    "en": "I'm not feeling very well."
+  },
+  {
+    "rn": "Numva mfise ubushuhe buke",
+    "en": "I think I've got a bit of a temperature."
+  },
+  {
+    "rn": "Numva ndikondaribwa mu nda",
+    "en": "I have a bit of a stomach bug."
+  },
+  {
+    "rn": "Numva nkanye kandi ndababara mu muhogo",
+    "en": "I think I'm going down with a cold. I've got a sore throat."
+  },
+  {
+    "rn": "Numva ntamerewe neza",
+    "en": "I feel a bit under the weather."
+  },
+  {
+    "rn": "Nzoba nagiye ku kiyaga.",
+    "en": "Well, I'd love to, but I'm already going out to the beach."
+  },
+  {
+    "rn": "nzokoresha fotokopi nimba ubikeneye",
+    "en": "I'll do the photocopying, if you like. "
+  },
+  {
+    "rn": "obi",
+    "en": "Shell"
+  },
+  {
+    "rn": "oya ,murakoze",
+    "en": "No, thanks.Or, No thank you."
+  },
+  {
+    "rn": "pima ikilo c' isukari",
+    "en": "Weigh a kilo of sugar"
+  },
+  {
+    "rn": "politike ya Leta",
+    "en": "The government's politics"
+  },
+  {
+    "rn": "ravabo",
+    "en": "Wash basin"
+  },
+  {
+    "rn": "Rimwe na rimwe harigihe wumva utamerewe neza kandi utarwaye.Ngaya amwe amwe mu majambo akoreshwa mu mvugo rusangi mukuvuga uko wumva umerewe na zimwe munyishu ziremesha(zihumuriza) zikoreshwa na benshi",
+    "en": "Sometimes you don't feel very well, but you're not really ill. Here are some common expressions that you can use to describe general \u201caches and pains\u201d and some useful \u201csympathetic\u201d responses."
+  },
+  {
+    "rn": "ruseha abaniha",
+    "en": "Ambulance"
+  },
+  {
+    "rn": "senge",
+    "en": "Aunt"
+  },
+  {
+    "rn": "SIDA",
+    "en": "AIDS"
+  },
+  {
+    "rn": "Sinibaza ko nzoronka akanya kuwa 17. Ubona twobonana kuwa 19?",
+    "en": "I really don't think I can on the 17th. Can we meet up on the 19th?"
+  },
+  {
+    "rn": "Sinibaza ko nzoronka akaryo kuko nzoba ndi mu bindi.",
+    "en": "I really don't think I can , I'm supposed to be doing something else."
+  },
+  {
+    "rn": "Sinidoga",
+    "en": "I mustn't grumble"
+  },
+  {
+    "rn": "Sinkunda inkino na gato",
+    "en": "I don't like sport at all."
+  },
+  {
+    "rn": "Sinkunda isoko kijambere iremamwo isinzi ry'abantu",
+    "en": "I hate crowded supermarkets."
+  },
+  {
+    "rn": "Tukwipfurije pasika nziza",
+    "en": "With best wishes for a happy Christmas"
+  },
+  {
+    "rn": "Turashobora kubonana kuwa 16?",
+    "en": "Can we meet on the 16th?"
+  },
+  {
+    "rn": "Turi mu mubabaro udasanzwe.",
+    "en": "We're all in complete shock."
+  },
+  {
+    "rn": "Ubona gute tubonanye kuwa3?",
+    "en": "How does the 3rd sound to you?"
+  },
+  {
+    "rn": "Ubona gute tubonanye mundwi iza?",
+    "en": "What about sometime next week?"
+  },
+  {
+    "rn": "Ubona gute tujanye kurya muri resitora mundwi iza?",
+    "en": "How do you fancy going out for a meal at the weekend?"
+  },
+  {
+    "rn": "Ubona isaha yi 9 ikworohereza?",
+    "en": "Is 3pm a good time for you?"
+  },
+  {
+    "rn": "Ubona kuwa gatatu uza wokworohereza?",
+    "en": "Is next Tuesday convenient for you?"
+  },
+  {
+    "rn": "ububabare bushika kenshi na kenshi",
+    "en": "General aches and pains"
+  },
+  {
+    "rn": "Ububabare bw`iryinyo",
+    "en": "Toothache"
+  },
+  {
+    "rn": "ububabare bw`umugongo",
+    "en": "Backache"
+  },
+  {
+    "rn": "ububabare bw`umutwe",
+    "en": "Headache"
+  },
+  {
+    "rn": "ubukangwe",
+    "en": "Polio"
+  },
+  {
+    "rn": "ubuki",
+    "en": "Honey"
+  },
+  {
+    "rn": "ubunyene",
+    "en": "Now"
+  },
+  {
+    "rn": "Uburyo nkenerwa bwoguhana canke guhindura isango",
+    "en": "Useful phrases for making and changing appointments."
+  },
+  {
+    "rn": "ubusa",
+    "en": "Zero"
+  },
+  {
+    "rn": "ubusazi",
+    "en": "Madness"
+  },
+  {
+    "rn": "ubushaza",
+    "en": "Peas"
+  },
+  {
+    "rn": "ubushikirangaji bw`urwaruka, inkino n`imico kama",
+    "en": "Ministry of youth, sports and culture"
+  },
+  {
+    "rn": "ubushikiranganji",
+    "en": "Ministry"
+  },
+  {
+    "rn": "ubushikiranganji bw`amagara y`abantu",
+    "en": "Ministry of public health"
+  },
+  {
+    "rn": "ubushikiranganji bw`imigenderanire y`igihugu n`ayandi makungu",
+    "en": "Ministry of foreign affairs"
+  },
+  {
+    "rn": "ubushikiranganji bw`ubutungane",
+    "en": "Ministry of justice"
+  },
+  {
+    "rn": "ubushikiranganji bwo gutumatumanako (amakuru)",
+    "en": "Ministry of communication"
+  },
+  {
+    "rn": "ubushinganji bw'umutekano n'abahoze ku rugamba",
+    "en": "Ministry of national defence and ex-service man"
+  },
+  {
+    "rn": "ubuzi",
+    "en": "OCCUPATIONS"
+  },
+  {
+    "rn": "ubuzima",
+    "en": "Life"
+  },
+  {
+    "rn": "Ubuzima bw'ibwifashe gute?",
+    "en": "How is life treating you? "
+  },
+  {
+    "rn": "ubwanwa",
+    "en": "Beard"
+  },
+  {
+    "rn": "ubwato bw`indwano",
+    "en": "Warship"
+  },
+  {
+    "rn": "ubwogero (dushe)",
+    "en": "Shower"
+  },
+  {
+    "rn": "ubwoko",
+    "en": "Ethnic"
+  },
+  {
+    "rn": "Ugusaba gufashwa gukora ikintu",
+    "en": "MAKING REQUESTS"
+  },
+  {
+    "rn": "Ugushikirilza akakubakiye",
+    "en": "COMPLAINING IN ENGLISH"
+  },
+  {
+    "rn": "Ugutanga intererano",
+    "en": "MAKING OFFERS"
+  },
+  {
+    "rn": "Ugutanga ubutumire",
+    "en": "MAKING INVITATIONS"
+  },
+  {
+    "rn": "ugutwi",
+    "en": "An ear"
+  },
+  {
+    "rn": "Uje uva he?",
+    "en": "Where do you back from?"
+  },
+  {
+    "rn": "Ujejwe iki?",
+    "en": "What are you in charge of? "
+  },
+  {
+    "rn": "Ukeneye ko nitaba terefone",
+    "en": "Would you like me to answer the phone?"
+  },
+  {
+    "rn": "ukenye ko nitaba terefone?",
+    "en": "Would you like me to answer the phone?"
+  },
+  {
+    "rn": "Uko bashikiriza umubabaro(akababaro)",
+    "en": "HOW TO EXPRESS SHOCK IN ENGLISH"
+  },
+  {
+    "rn": "Uko bavuga ibijanye n'indwara",
+    "en": "HOW TO TALK ABOUT ILLNESS"
+  },
+  {
+    "rn": "Uko wotanga n'uko wokwemera ubutumire.",
+    "en": "How to make and accept invitations in English."
+  },
+  {
+    "rn": "Ukora iki?",
+    "en": "What is your business?"
+  },
+  {
+    "rn": "Ukubaza aho umuntu yavukiye, igihe yavukiyeko hamwe n'imyaka afise",
+    "en": "Asking where someone was born, when he was born and about the age"
+  },
+  {
+    "rn": "Ukubitiye he?",
+    "en": "Where up?"
+  },
+  {
+    "rn": "ukuboko",
+    "en": "Arm"
+  },
+  {
+    "rn": "ukuguru",
+    "en": "Leg"
+  },
+  {
+    "rn": "ukuguru kw'igikoko",
+    "en": "A paw"
+  },
+  {
+    "rn": "ukwakira",
+    "en": "Receiving"
+  },
+  {
+    "rn": "ukwezi",
+    "en": "Moon"
+  },
+  {
+    "rn": "ukwezi guheze",
+    "en": "Last month"
+  },
+  {
+    "rn": "ukwezi kuza",
+    "en": "Next month"
+  },
+  {
+    "rn": "umlwana wa so wanyu(umukobwa), cake wanyokwanyu",
+    "en": "Step sister"
+  },
+  {
+    "rn": "umubu",
+    "en": "A mosquito"
+  },
+  {
+    "rn": "umucamanza",
+    "en": "A judge"
+  },
+  {
+    "rn": "umucungwa",
+    "en": "Orange"
+  },
+  {
+    "rn": "umucuzi",
+    "en": "A blacksmith"
+  },
+  {
+    "rn": "umudandaza",
+    "en": "A trader"
+  },
+  {
+    "rn": "umudende w'igihugu",
+    "en": "Army band"
+  },
+  {
+    "rn": "umuforoma",
+    "en": "Nurse"
+  },
+  {
+    "rn": "umufundi wa za mbonehakure",
+    "en": "Television engineer"
+  },
+  {
+    "rn": "umugabo wa nyoko",
+    "en": "Step father"
+  },
+  {
+    "rn": "umugambi w'amahoro",
+    "en": "Peace process"
+  },
+  {
+    "rn": "umugambwe",
+    "en": "Political party"
+  },
+  {
+    "rn": "umugambwe uri kubutegetsi",
+    "en": "The party in power"
+  },
+  {
+    "rn": "umuganga",
+    "en": "A doctor"
+  },
+  {
+    "rn": "umuganga w`amenyo",
+    "en": "Dentist"
+  },
+  {
+    "rn": "umugera",
+    "en": "Virus"
+  },
+  {
+    "rn": "umugizi wa nabi",
+    "en": "Murderer"
+  },
+  {
+    "rn": "umugongo",
+    "en": "Back"
+  },
+  {
+    "rn": "umugoroba",
+    "en": "Evening"
+  },
+  {
+    "rn": "Umugwi w`amaraso",
+    "en": "Blood group"
+  },
+  {
+    "rn": "umuhingamo",
+    "en": "Afternoon"
+  },
+  {
     "rn": "Umuhoro",
     "en": ""
   },
   {
+    "rn": "umuhungu",
+    "en": "A boy"
+  },
+  {
+    "rn": "umuhungu wa ...",
+    "en": "A son"
+  },
+  {
+    "rn": "umuhuza",
+    "en": "Mediator"
+  },
+  {
+    "rn": "umuhwi",
+    "en": "Sweet banana"
+  },
+  {
+    "rn": "umujigiti (uburoson bw;amenyo)",
+    "en": "Toothbrush"
+  },
+  {
+    "rn": "umukate",
+    "en": "Bread"
+  },
+  {
+    "rn": "umukazana",
+    "en": "Daughter in law"
+  },
+  {
+    "rn": "umukene",
+    "en": "A poor man"
+  },
+  {
+    "rn": "umukenguzamateka",
+    "en": "Senator"
+  },
+  {
+    "rn": "umukinyi",
+    "en": "A player"
+  },
+  {
+    "rn": "umukobwa",
+    "en": "A girl"
+  },
+  {
+    "rn": "umukobwa wa ...",
+    "en": "A daughter"
+  },
+  {
+    "rn": "umukondo",
+    "en": "Naval"
+  },
+  {
+    "rn": "umukoresha",
+    "en": "A boss, employer"
+  },
+  {
+    "rn": "umukozi",
+    "en": "An employee"
+  },
+  {
+    "rn": "umukuru w`igihugu",
+    "en": "Head of state"
+  },
+  {
+    "rn": "umukuru w`igihugu, umutware",
+    "en": "Chairman"
+  },
+  {
+    "rn": "umukuru w`ikirindiro",
+    "en": "Lieutenant"
+  },
+  {
+    "rn": "umukwe",
+    "en": "Son-in-law"
+  },
+  {
+    "rn": "umumenyesha makuru",
+    "en": "A journalist"
+  },
+  {
+    "rn": "umunani",
+    "en": "Eight"
+  },
+  {
+    "rn": "umuntu afotora",
+    "en": "Photographer"
+  },
+  {
+    "rn": "umuntu yarezwe nabi",
+    "en": "Ill-bred person"
+  },
+  {
+    "rn": "umuntu yarezwe neza",
+    "en": "Well bred person"
+  },
+  {
+    "rn": "umunuta",
+    "en": "A minute"
+  },
+  {
+    "rn": "umunwa",
+    "en": "Mouth"
+  },
+  {
+    "rn": "umunwa w'inyoni",
+    "en": "A beak"
+  },
+  {
+    "rn": "umunyagihugu",
+    "en": "Civilian"
+  },
+  {
+    "rn": "umunyamabanga mukuru wa leta",
+    "en": "Junior minister"
+  },
+  {
+    "rn": "umunyepolitike",
+    "en": "Politician"
+  },
+  {
+    "rn": "umunyepolotike",
+    "en": "A politician"
+  },
+  {
+    "rn": "umunyezamu",
+    "en": "A watch-man"
+  },
+  {
+    "rn": "umunyezamu akora ijoro",
+    "en": "A night watch-man"
+  },
+  {
+    "rn": "umunyu",
+    "en": "Salt"
+  },
+  {
+    "rn": "umunzani",
+    "en": "Scale"
+  },
+  {
+    "rn": "umunzerere",
+    "en": "A cicada"
+  },
+  {
+    "rn": "umupfumu",
+    "en": "A witch doctor"
+  },
+  {
+    "rn": "umupira",
+    "en": "T-shirt"
+  },
+  {
+    "rn": "umupolisi",
+    "en": "Police-man(a police afficer)"
+  },
+  {
+    "rn": "umurimyi",
+    "en": "A peasant, a farmer"
+  },
+  {
+    "rn": "umuririmvyi",
+    "en": "A singer"
+  },
+  {
+    "rn": "Umuriro",
+    "en": "The Fire"
+  },
+  {
+    "rn": "umuriyaridi",
+    "en": "One billion"
+  },
+  {
+    "rn": "umurizo",
+    "en": "A tail"
+  },
+  {
+    "rn": "umurobera",
+    "en": "A guerilla"
+  },
+  {
+    "rn": "umuroberi ( umugarariji)",
+    "en": "Rebel"
+  },
+  {
+    "rn": "umurozi",
+    "en": "A witch"
+  },
+  {
+    "rn": "umurwanyi",
+    "en": "Warlike"
+  },
+  {
+    "rn": "umurwayi",
+    "en": "A patient"
+  },
+  {
+    "rn": "Umurwayi",
+    "en": "A sick person"
+  },
+  {
+    "rn": "umuryango",
+    "en": "THE FAMILY"
+  },
+  {
+    "rn": "umusazi",
+    "en": "Madman"
+  },
+  {
+    "rn": "umusegonda",
+    "en": "A second"
+  },
+  {
+    "rn": "umusenzi",
+    "en": "A prayer"
+  },
+  {
+    "rn": "umuserebanyi",
+    "en": "A lizard"
+  },
+  {
+    "rn": "umushana",
+    "en": "A grass snake"
+  },
+  {
+    "rn": "umushatsi",
+    "en": "Hair"
+  },
+  {
+    "rn": "umushikiranganji",
+    "en": "Minister"
+  },
+  {
+    "rn": "umushingamateka",
+    "en": "Member of parliament"
+  },
+  {
     "rn": "Umusi mwiza",
     "en": "A good day"
+  },
+  {
+    "rn": "umusiba",
+    "en": "An earthworm"
+  },
+  {
+    "rn": "umusiba, urunyo",
+    "en": "A worm"
+  },
+  {
+    "rn": "umusigati",
+    "en": "Sugarcane"
+  },
+  {
+    "rn": "umusirikare",
+    "en": "Soldier"
+  },
+  {
+    "rn": "umusirikare asanzwe(rugara)",
+    "en": "Common soldier"
+  },
+  {
+    "rn": "umusumbarembo",
+    "en": "A giraffe"
+  },
+  {
+    "rn": "umutavu",
+    "en": "A calf"
+  },
+  {
+    "rn": "umuteko",
+    "en": "A heap"
+  },
+  {
+    "rn": "umuti",
+    "en": "Medicine"
+  },
+  {
+    "rn": "umuti w'amenyo",
+    "en": "Toothpaste"
+  },
+  {
+    "rn": "umutima",
+    "en": "Heart"
+  },
+  {
+    "rn": "umutobe",
+    "en": "Juice"
+  },
+  {
+    "rn": "umutobe w`imicungwa",
+    "en": "Orange juice"
+  },
+  {
+    "rn": "umutobe w`inanasi",
+    "en": "Pineapple juice"
+  },
+  {
+    "rn": "umutobe w`inyanya",
+    "en": "Tomato juice"
+  },
+  {
+    "rn": "umutobe w`ivyamwa",
+    "en": "Fruit juice"
+  },
+  {
+    "rn": "umutsi",
+    "en": "Nerve"
+  },
+  {
+    "rn": "umutunzi",
+    "en": "A rich man, a well-off, a well-off-people"
+  },
+  {
+    "rn": "umutwe",
+    "en": "Head"
+  },
+  {
+    "rn": "umuvinyu",
+    "en": "Wine"
+  },
+  {
+    "rn": "umuvuga butumwa",
+    "en": "A preacher"
+  },
+  {
+    "rn": "umuvugizi",
+    "en": "Spokesman"
+  },
+  {
+    "rn": "umuvukanyi (umuvukanyi), musaza wa",
+    "en": "A brother"
+  },
+  {
+    "rn": "umuvukanyi (umuvukanyi), mushiki wa ...",
+    "en": "A sister"
+  },
+  {
+    "rn": "umuyangayanga",
+    "en": "A butcher"
+  },
+  {
+    "rn": "umuyaya",
+    "en": "A baby sitter"
+  },
+  {
+    "rn": "umuyobozi",
+    "en": "A headmaster"
+  },
+  {
+    "rn": "umwaka uheze",
+    "en": "Last year"
+  },
+  {
+    "rn": "umwaka uza",
+    "en": "Next year"
+  },
+  {
+    "rn": "umwambaro wa gisirikare",
+    "en": "Army uniform"
+  },
+  {
+    "rn": "umwana",
+    "en": "Child"
+  },
+  {
+    "rn": "umwana w'ikinege",
+    "en": "An only child"
+  },
+  {
+    "rn": "umwana wa so wanyu(umuhungu), canke uwa nyokwanyu",
+    "en": "Step brother"
+  },
+  {
+    "rn": "umwanditsi",
+    "en": "Writer"
+  },
+  {
+    "rn": "umwanya uheze",
+    "en": "Last time"
+  },
+  {
+    "rn": "umwanya uza",
+    "en": "Next time"
+  },
+  {
+    "rn": "umwanya, amasaha n'amatariki",
+    "en": "TIME AND DATE"
+  },
+  {
+    "rn": "umwembe",
+    "en": "Mango"
+  },
+  {
+    "rn": "umwigisha",
+    "en": "A teacher"
+  },
+  {
+    "rn": "umwishwa, umusengezana (w'umuhungu)",
+    "en": "Nephew"
+  },
+  {
+    "rn": "umwishwa, umusengezana (w'umukobwa)",
+    "en": "Niece"
+  },
+  {
+    "rn": "umwubatsi",
+    "en": "A mason"
+  },
+  {
+    "rn": "umwungere",
+    "en": "A cowboy"
+  },
+  {
+    "rn": "umwuzukuru",
+    "en": "Grandchild"
+  },
+  {
+    "rn": "uno munsi",
+    "en": "Today"
+  },
+  {
+    "rn": "uno munsi mugitondo",
+    "en": "Today morning"
+  },
+  {
+    "rn": "uno munsi mwijoro",
+    "en": "Today evening"
+  },
+  {
+    "rn": "Urakomeye?",
+    "en": "Are you fit? "
+  },
+  {
+    "rn": "urakoze cane",
+    "en": "Thank you so much!"
+  },
+  {
+    "rn": "Urantunga kuwa mbere ntivyokunda. Ntivyokunda ko tubonana kuwa gakabiri?",
+    "en": "I'm sorry, I won't be able to make it on Monday. Could we meet on Tuesday instead?"
+  },
+  {
+    "rn": "urasbora kunyugururira urugi?",
+    "en": "Can you open the door for me, please?"
+  },
+  {
+    "rn": "Urashobora kungurana amafaranga?",
+    "en": "Could I borrow some money from you, please?"
+  },
+  {
+    "rn": "Urashobora kunyugururira ?",
+    "en": "Could you open the door for me, please?"
+  },
+  {
+    "rn": "Uraziko twaritwasezeranye ko tubonana ku musi wa gatanu uza, urantunga kuko harikintu cihutirwa kizoba.",
+    "en": "You know we were going to meet next Friday? Well, I'm very sorry, but something urgent has come up."
+  },
+  {
+    "rn": "Uri mw'iduka bakaguha ingaru idakwiye",
+    "en": "You're in a shop and the assistant gives you the wrong change"
+  },
+  {
+    "rn": "uriko uva he?",
+    "en": "Where are you coming from"
+  },
+  {
+    "rn": "Uriko wihutira he?",
+    "en": "Where are dashing?"
+  },
+  {
+    "rn": "urubavu",
+    "en": "Rib"
+  },
+  {
+    "rn": "urudandazwa",
+    "en": "TRADING"
+  },
+  {
+    "rn": "urugamba(ku rugamba),urubuga rw'intambara",
+    "en": "Shooting battle"
+  },
+  {
+    "rn": "urugohe",
+    "en": "Eyebrow"
+  },
+  {
+    "rn": "uruhanga",
+    "en": "Forehead"
+  },
+  {
+    "rn": "uruhombo",
+    "en": "A loss"
+  },
+  {
+    "rn": "uruhombo rw`afaranga ijana",
+    "en": "Loss of 1OOfr"
+  },
+  {
+    "rn": "urukwavu",
+    "en": "Rabbit"
+  },
+  {
+    "rn": "urunyanya",
+    "en": "Tomato"
+  },
+  {
+    "rn": "urupapuro rwo kwa muganga(ordonanse)",
+    "en": "Prescription"
+  },
+  {
+    "rn": "urura",
+    "en": "Intestine"
+  },
+  {
+    "rn": "ururimi",
+    "en": "Tongue"
+  },
+  {
+    "rn": "urushinge rw'amasaha",
+    "en": "The hour hand"
+  },
+  {
+    "rn": "urushinge rw'amasegonda",
+    "en": "The seconds"
+  },
+  {
+    "rn": "urushinge rw'iminota",
+    "en": "The minutes hand"
+  },
+  {
+    "rn": "urushinge rw'isaha",
+    "en": "A hand"
+  },
+  {
+    "rn": "urushinge(bakoresha mukuvura)",
+    "en": "Injection"
+  },
+  {
+    "rn": "urusoro",
+    "en": "Bullet"
+  },
+  {
+    "rn": "urutoke",
+    "en": "Finger"
+  },
+  {
+    "rn": "urutozi",
+    "en": "A red ant"
+  },
+  {
+    "rn": "uruyuki",
+    "en": "A bee"
+  },
+  {
+    "rn": "urwamo rw`inkoho gisoda",
+    "en": "Shooting gun"
+  },
+  {
+    "rn": "urwara",
+    "en": "Nail"
+  },
+  {
+    "rn": "urwara rw'igikoko",
+    "en": "A claw"
+  },
+  {
+    "rn": "urwembe",
+    "en": "Razor"
+  },
+  {
+    "rn": "Usa n'uwahindaganye",
+    "en": "You look a little pale."
+  },
+  {
+    "rn": "Usa nk'uwutamerewe neza",
+    "en": "You don't look very well."
+  },
+  {
+    "rn": "Uvuga amaki?",
+    "en": "How do you say? "
+  },
+  {
+    "rn": "Uvuye he?",
+    "en": "Where do you come from?"
+  },
+  {
+    "rn": "uwaguye ku rugambat",
+    "en": "Killed in action"
+  },
+  {
+    "rn": "uwikorera utwiwe",
+    "en": "A businessperson"
+  },
+  {
+    "rn": "uwikorera utwiwe(umugabo)",
+    "en": "A businessman"
+  },
+  {
+    "rn": "uwikorera utwiwe(umugore)",
+    "en": "A business"
+  },
+  {
+    "rn": "uwitwaje ikirwanisho",
+    "en": "Gunman"
+  },
+  {
+    "rn": "uwubaga",
+    "en": "Surgeon"
+  },
+  {
+    "rn": "uwukora imikate",
+    "en": "A baker"
+  },
+  {
+    "rn": "uwukubura",
+    "en": "A sweeper"
+  },
+  {
+    "rn": "uwunguruza abantu n'ikinga",
+    "en": "A Bike taxi-man"
+  },
+  {
+    "rn": "uwushona",
+    "en": "A tailor"
+  },
+  {
+    "rn": "uwushona ibirato",
+    "en": "A cobbler"
+  },
+  {
+    "rn": "uwusiga irangi",
+    "en": "Painter"
+  },
+  {
+    "rn": "uwutwara umuduga",
+    "en": "A driver"
+  },
+  {
+    "rn": "uwuvyina",
+    "en": "Dancer"
+  },
+  {
+    "rn": "Uzoba uriko ukora iki kuwagatandatu uza? Tuzofungurira hamwe n'abandi. Ubona woza?",
+    "en": "What are you doing next Saturday? We're having some people over for a meal. Would you like to come?"
+  },
+  {
+    "rn": "vereni(inoboranzara)",
+    "en": "Nailpolish"
+  },
+  {
+    "rn": "Vyari vyiza ariko mfise ibindi nzobandiko ndakora kuwa gatandatu.",
+    "en": "That's very kind of you, but actually I'm doing something else on Saturday."
+  },
+  {
+    "rn": "Vyiza wotaha kuruhuka",
+    "en": "Maybe you should go home and get some rest."
+  },
+  {
+    "rn": "Vyokunezera tujanye kuraba ireresi uno munsi mw'ijoro?",
+    "en": "Would you be interested in coming to the cinema with me tonight?"
+  },
+  {
+    "rn": "Vyose bigenda neza",
+    "en": "Everything goes well"
+  },
+  {
+    "rn": "Witwa nde?",
+    "en": "How are you called? "
+  },
+  {
+    "rn": "woba ufise akanya kuwa 17?",
+    "en": "Are you available on the 17th?"
+  },
+  {
+    "rn": "Woba ufise akanya mu ndwi iza?",
+    "en": "Are you free next week?"
+  },
+  {
+    "rn": "Yemwe gaye, mbega ingabire isize ubwenge",
+    "en": "Wow! What a thoughtful present!"
   }
 ]
