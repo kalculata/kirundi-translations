@@ -1,5 +1,13 @@
 import json
 import os
+import re
+
+def clean_sentence(sentence):
+  # Remove words between parentheses
+  sentence_without_parentheses = re.sub(r'\([^)]*\)', '', sentence)
+  # Remove multiple consecutive spaces
+  sentence_without_spaces = re.sub(r'\s+', ' ', sentence_without_parentheses)
+  return sentence_without_spaces.strip()  # Remove leading and trailing spaces
 
 file = "ikirundi-english.json"
 
@@ -13,19 +21,15 @@ sorted_data = sorted(data, key=lambda x: x["rn"].casefold())
 # Delete the old file
 os.remove(file)
 
-# Initialize a counter for duplicates deleted
 duplicates_deleted = 0
-
-# Create a dictionary to store unique translations
 unique_translations = {}
-
-# Create a list to store words with empty translations
 empty_translations_words = []
 
 # Iterate over sorted data and keep only unique translations
 for item in sorted_data:
-  rn = item["rn"].strip()
-  en = item["en"].strip()
+  rn = clean_sentence(item["rn"])
+  en = clean_sentence(item["en"].strip())
+  
   if en == "":
     empty_translations_words.append(rn)
 
