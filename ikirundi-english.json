@@ -1,293 +1,5 @@
 [
   {
-    "rn": " amajambo bakoresha muri poritike",
-    "en": "POLITICAL TERMNOLOGY"
-  },
-  {
-    "rn": " Bigenda gute? ",
-    "en": "How are you going?"
-  },
-  {
-    "rn": " Gahoro gahoro,ndahendahenda",
-    "en": "I'm so-so"
-  },
-  {
-    "rn": " Inyishu zimwe zimwe",
-    "en": "Some responses"
-  },
-  {
-    "rn": " Ku muntu uruta",
-    "en": "To your inferior you can say"
-  },
-  {
-    "rn": " Kubaza iyo naka agiye",
-    "en": "Asking direction where to"
-  },
-  {
-    "rn": " kubaza iyo umuntu avuye",
-    "en": "Asking where someone comes from"
-  },
-  {
-    "rn": " Kumuntu akuruta ushobora kuvuga",
-    "en": "To your superior you can say"
-  },
-  {
-    "rn": " Mba mu Burundi",
-    "en": "I dwell in BURUNDI"
-  },
-  {
-    "rn": " Mba mu Bwiza",
-    "en": "I live at Bwiza"
-  },
-  {
-    "rn": " Mba mu Kanyosha",
-    "en": "I stay at Kanyosha"
-  },
-  {
-    "rn": " Mfashe iya mu CIBITOKE",
-    "en": "I'm aiming to CIBITOKE"
-  },
-  {
-    "rn": " Mfise imyaka 27",
-    "en": "I am 27 years old"
-  },
-  {
-    "rn": " Mugihe ibintu bitameze neza canke ngo bibe bibi",
-    "en": "Neither good nor bad condition"
-  },
-  {
-    "rn": " Mvuye I Ngozi",
-    "en": "I from NGOZI"
-  },
-  {
-    "rn": " Mvuye Mwi Rohero",
-    "en": "I'm coming from Rohero"
-  },
-  {
-    "rn": " Mwiriwe",
-    "en": "Good evening"
-  },
-  {
-    "rn": " Mwombwira izina ryanyu?",
-    "en": "Could you tell me your name?"
-  },
-  {
-    "rn": " Mwuye I Bujumbura",
-    "en": "I come from Bujumbura"
-  },
-  {
-    "rn": " Mwuye ku kazi",
-    "en": "I back from work"
-  },
-  {
-    "rn": " Natse indaro I Kiriri",
-    "en": "I hang out at Kiriri"
-  },
-  {
-    "rn": " Navukiye mu CIBITOKE",
-    "en": "I was born in CIBITOKE"
-  },
-  {
-    "rn": " Navutse mu 1985",
-    "en": "I was born in 1985"
-  },
-  {
-    "rn": " Ndatahije",
-    "en": "Greeting to"
-  },
-  {
-    "rn": " Ndi umudandaza",
-    "en": "I'm a trader "
-  },
-  {
-    "rn": " Ndi umuganga",
-    "en": "I'm a doctor "
-  },
-  {
-    "rn": " Ndi umusirikare",
-    "en": "I'm a soldier "
-  },
-  {
-    "rn": " Ndi umwigisha",
-    "en": "I'm a preacher"
-  },
-  {
-    "rn": " Nerekereje Kuruhagarika",
-    "en": "I'm heading for RUHARIKA"
-  },
-  {
-    "rn": " Ngiye kuraba isanamu",
-    "en": "I'm going to the movie"
-  },
-  {
-    "rn": " Ngiye mugisagara",
-    "en": "I'm leading to town"
-  },
-  {
-    "rn": " Ni gute?",
-    "en": "What's up?"
-  },
-  {
-    "rn": " Ni hutiye gusenga",
-    "en": "I'm in hurry to church"
-  },
-  {
-    "rn": " Ni vyiza",
-    "en": "I'm OK "
-  },
-  {
-    "rn": " Nitwa MAKOBORA",
-    "en": "My name is MAKOBORA"
-  },
-  {
-    "rn": " Nitwa MUGISHA",
-    "en": "I'm MUGISHA"
-  },
-  {
-    "rn": " Nitwa NIKIZA Mariko",
-    "en": "I'm called NIKIZA Mark"
-  },
-  {
-    "rn": " Nkubitiye mu NYAKABIGA",
-    "en": "To NYAKABIGA"
-  },
-  {
-    "rn": " Nsimbiye  mu KININDO",
-    "en": "Up to KININDO"
-  },
-  {
-    "rn": " Ntacobitwaye, nitwa Ciza",
-    "en": "Don't worry, my name is CIZA"
-  },
-  {
-    "rn": " Ntahiriza",
-    "en": "Give love to"
-  },
-  {
-    "rn": " Ntakigenda",
-    "en": "Nothing goes"
-  },
-  {
-    "rn": " Ntangorane, nitwa NIMUBONA",
-    "en": "Sure, my name is NIMUBONA"
-  },
-  {
-    "rn": " Nyarukiye ku Nteganya bizoza kw'ibanki",
-    "en": "I'm dashing to the bank"
-  },
-  {
-    "rn": " Nyarukiye kw' Isoko",
-    "en": "I'm rushing to the market"
-  },
-  {
-    "rn": " Uba he?",
-    "en": "Where do you live?"
-  },
-  {
-    "rn": " Ufise imyaka ingahe?",
-    "en": "How old are you?"
-  },
-  {
-    "rn": " Ugiye he?",
-    "en": "Where are you going to?"
-  },
-  {
-    "rn": " uko batasha",
-    "en": "How to send greetings"
-  },
-  {
-    "rn": " Ukora iki mu buzima?",
-    "en": "What do you do in your life?"
-  },
-  {
-    "rn": " Ukora iki?",
-    "en": "What's your occupation?"
-  },
-  {
-    "rn": " Ukubaza ibijanye n'igikorwa",
-    "en": "Asking about occupation"
-  },
-  {
-    "rn": " ukunguruza abantu n'ibintu",
-    "en": "TRANSPORT"
-  },
-  {
-    "rn": " Ukuvuga ivyo ukunda n'ivyo udakunda",
-    "en": "TALKING ABOUT LIKES AND DISLIKES IN ENGLISH "
-  },
-  {
-    "rn": " Umuhamagaro wawe ni uwuhe?",
-    "en": "What is your calling?"
-  },
-  {
-    "rn": " Urampere intasho umugenzi wanje BARAKA.",
-    "en": "Give my best regards to my friend BARAKA"
-  },
-  {
-    "rn": " Urandamukirize",
-    "en": "Say hello to"
-  },
-  {
-    "rn": " Urandamukirize Yohana",
-    "en": "Greetings to John"
-  },
-  {
-    "rn": " Urantahirize",
-    "en": "Give my best regards to"
-  },
-  {
-    "rn": " Urantahirize abavyeyi",
-    "en": "Give love to my parents"
-  },
-  {
-    "rn": " Urantahirize marume",
-    "en": "Say hello to my uncle"
-  },
-  {
-    "rn": " Uriko uja he?",
-    "en": "Where are departing?"
-  },
-  {
-    "rn": " Uriko unyarukira he?",
-    "en": "Where do you hurry up to?"
-  },
-  {
-    "rn": " Uroye he?",
-    "en": "Where are you heading for?"
-  },
-  {
-    "rn": " uturorero",
-    "en": "Examples given"
-  },
-  {
-    "rn": " vuga izina ryawe",
-    "en": "Your name please! "
-  },
-  {
-    "rn": " Vyose vyanse,ntakigenda",
-    "en": "Everything goes wrong"
-  },
-  {
-    "rn": " Watse indaro he?",
-    "en": "Where do you hang out? "
-  },
-  {
-    "rn": " Wavukiye he?",
-    "en": "Where were you born?"
-  },
-  {
-    "rn": " Wavutse ryari?",
-    "en": "When were you born?"
-  },
-  {
-    "rn": " Werekeje he?",
-    "en": "Where are you aiming?"
-  },
-  {
-    "rn": " Wihutira he?",
-    "en": "Where are you in hurry to?"
-  },
-  {
     "rn": "abafundi",
     "en": "Repairers"
   },
@@ -369,7 +81,7 @@
   },
   {
     "rn": "akayabu",
-    "en": ""
+    "en": "A cat"
   },
   {
     "rn": "akayiko k'icayi",
@@ -377,7 +89,7 @@
   },
   {
     "rn": "Akazina kanyu",
-    "en": "Please, Your Name! "
+    "en": "Please, Your Name!"
   },
   {
     "rn": "akazirabunonko",
@@ -408,6 +120,10 @@
     "en": "Peace"
   },
   {
+    "rn": "amajambo bakoresha muri poritike",
+    "en": "POLITICAL TERMNOLOGY"
+  },
+  {
     "rn": "Amajambo nkenerwa",
     "en": "SPECIAL KEYWORDS"
   },
@@ -425,7 +141,7 @@
   },
   {
     "rn": "Amakuru maki?",
-    "en": "How are you? "
+    "en": "How are you?"
   },
   {
     "rn": "amaperu",
@@ -496,10 +212,6 @@
     "en": "Assault"
   },
   {
-    "rn": "babika arakina na karabaye",
-    "en": ""
-  },
-  {
     "rn": "Bagutazira nde?",
     "en": "What's your given name?"
   },
@@ -508,44 +220,16 @@
     "en": "They say things like"
   },
   {
-    "rn": "bamire na banuma bagiye gukora",
-    "en": ""
-  },
-  {
-    "rn": "bamire na mama bagiye gukora",
-    "en": ""
-  },
-  {
-    "rn": "berahino ahereje umuhoro gatogato",
-    "en": ""
-  },
-  {
-    "rn": "berahino arakina na basabose",
-    "en": ""
-  },
-  {
-    "rn": "berahino arakina na bayaga",
-    "en": ""
-  },
-  {
-    "rn": "berahino yikoreye igiti",
-    "en": ""
-  },
-  {
     "rn": "bibiri",
     "en": "Two"
   },
   {
     "rn": "Bigenda gute?",
-    "en": "How are you doing?"
-  },
-  {
-    "rn": "Bigenda gute? ",
-    "en": "How is it going? "
+    "en": "How are you going?"
   },
   {
     "rn": "Bimeze gute?",
-    "en": "How are things? "
+    "en": "How are things?"
   },
   {
     "rn": "bine",
@@ -584,16 +268,8 @@
     "en": "Hello"
   },
   {
-    "rn": "Buke buke,ndacumbagiza ",
+    "rn": "Buke buke,ndacumbagiza",
     "en": "I'm fifty-fifty"
-  },
-  {
-    "rn": "buname agiye kuvoma",
-    "en": ""
-  },
-  {
-    "rn": "buname aherekeje digiri",
-    "en": ""
   },
   {
     "rn": "burende",
@@ -602,18 +278,6 @@
   {
     "rn": "data",
     "en": "The father"
-  },
-  {
-    "rn": "data aje yikoreye igiti",
-    "en": ""
-  },
-  {
-    "rn": "data na banuma bagiye gukora",
-    "en": ""
-  },
-  {
-    "rn": "data na mama bagiye gukora",
-    "en": ""
   },
   {
     "rn": "Ego woba ugize neza cane",
@@ -662,6 +326,10 @@
   {
     "rn": "gahererezi",
     "en": "Little finger"
+  },
+  {
+    "rn": "Gahoro gahoro,ndahendahenda",
+    "en": "I'm so-so"
   },
   {
     "rn": "gapiteni",
@@ -834,10 +502,6 @@
   {
     "rn": "hirya y`ejo hazoza",
     "en": "Day after tomorrow"
-  },
-  {
-    "rn": "i muhira hariho akayabu gatoyi. kari n'utuguru tubiri n'utuboko tubiri. kari n'amabara yera n'ayirabura. karakina n'utubeba dutoduto, ariko iyo gahuye n'ibibeba bininibinini, karabibona kagatuna, kakabimira. iyo hari abana batoyi karakina na bo. karabirukana, kakabaharura ku maboko no ku maguru. bano bana hari aho barira ariko bakaguma bakina na ko. iyo data agiye gukama, karamukurikira. aragaha amata, kakayagotomera.",
-    "en": ""
   },
   {
     "rn": "ibaba",
@@ -1529,7 +1193,7 @@
   },
   {
     "rn": "Ingene basaba canke uko babaza ibintu runaka mucongereza",
-    "en": "HOW TO ASK FOR THINGS IN ENGLISH "
+    "en": "HOW TO ASK FOR THINGS IN ENGLISH"
   },
   {
     "rn": "Ingene basaba ibintu",
@@ -1618,6 +1282,10 @@
   {
     "rn": "Inyishu",
     "en": "Responses"
+  },
+  {
+    "rn": "Inyishu zimwe zimwe",
+    "en": "Some responses"
   },
   {
     "rn": "Inyishu ziremesha",
@@ -1805,7 +1473,7 @@
   },
   {
     "rn": "ivyambarwa impuzu n'ibirato",
-    "en": "DRESSING CLOTHES AND SHOES "
+    "en": "DRESSING CLOTHES AND SHOES"
   },
   {
     "rn": "IVYAMWA",
@@ -1920,6 +1588,10 @@
     "en": "At the sunset"
   },
   {
+    "rn": "Ku muntu uruta",
+    "en": "To your inferior you can say"
+  },
+  {
     "rn": "kubabara mu maso",
     "en": "To have pain in the eyes"
   },
@@ -1946,6 +1618,14 @@
   {
     "rn": "kubaza aho umuntu aba",
     "en": "Asking where someone lives"
+  },
+  {
+    "rn": "Kubaza iyo naka agiye",
+    "en": "Asking direction where to"
+  },
+  {
+    "rn": "kubaza iyo umuntu avuye",
+    "en": "Asking where someone comes from"
   },
   {
     "rn": "kubaza iyumuntu agiye",
@@ -2010,6 +1690,10 @@
   {
     "rn": "kumuhingamo",
     "en": "In the afternoon"
+  },
+  {
+    "rn": "Kumuntu akuruta ushobora kuvuga",
+    "en": "To your superior you can say"
   },
   {
     "rn": "kumvikana ku mwanya(igihe ,isaha)",
@@ -2124,16 +1808,24 @@
     "en": "The mother"
   },
   {
-    "rn": "mama afise isuka ku rutugu",
-    "en": ""
-  },
-  {
     "rn": "marariya (inyonko)",
     "en": "Malaria"
   },
   {
     "rn": "marume",
     "en": "Uncle"
+  },
+  {
+    "rn": "Mba mu Burundi",
+    "en": "I dwell in BURUNDI"
+  },
+  {
+    "rn": "Mba mu Bwiza",
+    "en": "I live at Bwiza"
+  },
+  {
+    "rn": "Mba mu Kanyosha",
+    "en": "I stay at Kanyosha"
   },
   {
     "rn": "mbe no?",
@@ -2154,6 +1846,14 @@
   {
     "rn": "Menyaneza ko ikoreshwa ry'utu tujambo mu congererza bituma ushobora kwemera canke guhakana icipfuzo ca naka mu rupfasoni",
     "en": "Note well Using these common English phrases you are able to accept and reject offers that make you sound polite and helpful."
+  },
+  {
+    "rn": "Mfashe iya mu CIBITOKE",
+    "en": "I'm aiming to CIBITOKE"
+  },
+  {
+    "rn": "Mfise imyaka 27",
+    "en": "I am 27 years old"
   },
   {
     "rn": "mirongo ibiri",
@@ -2492,6 +2192,10 @@
     "en": "Doctor"
   },
   {
+    "rn": "Mugihe ibintu bitameze neza canke ngo bibe bibi",
+    "en": "Neither good nor bad condition"
+  },
+  {
     "rn": "mugitondo",
     "en": "Morning"
   },
@@ -2580,6 +2284,14 @@
     "en": "Or, Thank you that would be great."
   },
   {
+    "rn": "Mvuye I Ngozi",
+    "en": "I from NGOZI"
+  },
+  {
+    "rn": "Mvuye Mwi Rohero",
+    "en": "I'm coming from Rohero"
+  },
+  {
     "rn": "Mw'iduka",
     "en": "In a shop"
   },
@@ -2596,6 +2308,10 @@
     "en": "Good morning! Could you give your phone number please?"
   },
   {
+    "rn": "Mwiriwe",
+    "en": "Good evening"
+  },
+  {
     "rn": "Mwiriwe! Mwondangira inzira ija mu Buyenzi?",
     "en": "Good evening! Can you show me the way to Buyenzi?"
   },
@@ -2605,7 +2321,7 @@
   },
   {
     "rn": "Mwombwira izina ryanyu?",
-    "en": "Would mind telling me your name?"
+    "en": "Could you tell me your name?"
   },
   {
     "rn": "Mwondangira Mariko?",
@@ -2614,6 +2330,14 @@
   {
     "rn": "Mwonzanira igikombe c'icayi?",
     "en": "Could I have a cup of tea please?"
+  },
+  {
+    "rn": "Mwuye I Bujumbura",
+    "en": "I come from Bujumbura"
+  },
+  {
+    "rn": "Mwuye ku kazi",
+    "en": "I back from work"
   },
   {
     "rn": "Nababaye kumva",
@@ -2636,6 +2360,18 @@
     "en": "It's something I've always wanted!"
   },
   {
+    "rn": "Natse indaro I Kiriri",
+    "en": "I hang out at Kiriri"
+  },
+  {
+    "rn": "Navukiye mu CIBITOKE",
+    "en": "I was born in CIBITOKE"
+  },
+  {
+    "rn": "Navutse mu 1985",
+    "en": "I was born in 1985"
+  },
+  {
     "rn": "Ndabona ko bitankundira ko tubunana. Ntitwo hana irindi sango?",
     "en": "I'm afraid that I'm not going to be able to meet you after all. Can we fix another time?"
   },
@@ -2652,8 +2388,8 @@
     "en": "Can I help you?"
   },
   {
-    "rn": "Ndakomeye ",
-    "en": "I' m fine "
+    "rn": "Ndakomeye",
+    "en": "I' m fine"
   },
   {
     "rn": "Ndakuguririre urugi?",
@@ -2708,6 +2444,26 @@
     "en": "Can I help you?"
   },
   {
+    "rn": "Ndatahije",
+    "en": "Greeting to"
+  },
+  {
+    "rn": "Ndi umudandaza",
+    "en": "I'm a trader"
+  },
+  {
+    "rn": "Ndi umuganga",
+    "en": "I'm a doctor"
+  },
+  {
+    "rn": "Ndi umusirikare",
+    "en": "I'm a soldier"
+  },
+  {
+    "rn": "Ndi umwigisha",
+    "en": "I'm a preacher"
+  },
+  {
     "rn": "ndibaza ko ataruhombo",
     "en": "No loss I think"
   },
@@ -2724,8 +2480,20 @@
     "en": "I have a touch of flu."
   },
   {
+    "rn": "Nerekereje Kuruhagarika",
+    "en": "I'm heading for RUHARIKA"
+  },
+  {
     "rn": "Ngiye ku nzu y'ingenzi Gateri Guest House",
     "en": "I'm departing to Gateri Guest House"
+  },
+  {
+    "rn": "Ngiye kuraba isanamu",
+    "en": "I'm going to the movie"
+  },
+  {
+    "rn": "Ngiye mugisagara",
+    "en": "I'm leading to town"
   },
   {
     "rn": "Ni agahengwe",
@@ -2733,7 +2501,11 @@
   },
   {
     "rn": "Ni gute?",
-    "en": "How are you keeping? "
+    "en": "What's up?"
+  },
+  {
+    "rn": "Ni hutiye gusenga",
+    "en": "I'm in hurry to church"
   },
   {
     "rn": "Ni igihe ki cokworohereza?",
@@ -2741,7 +2513,7 @@
   },
   {
     "rn": "Ni vyiza",
-    "en": "I'm so cool "
+    "en": "I'm OK"
   },
   {
     "rn": "niba ubishaka( niba bitokurwa nabi)",
@@ -2768,6 +2540,18 @@
     "en": "I'm just fine"
   },
   {
+    "rn": "Nitwa MAKOBORA",
+    "en": "My name is MAKOBORA"
+  },
+  {
+    "rn": "Nitwa MUGISHA",
+    "en": "I'm MUGISHA"
+  },
+  {
+    "rn": "Nitwa NIKIZA Mariko",
+    "en": "I'm called NIKIZA Mark"
+  },
+  {
     "rn": "Nivyiza",
     "en": "I'm better and better"
   },
@@ -2788,8 +2572,16 @@
     "en": "Index finger"
   },
   {
+    "rn": "Nkubitiye mu NYAKABIGA",
+    "en": "To NYAKABIGA"
+  },
+  {
     "rn": "Noshobora kuronka agasabune?",
     "en": "Can I have a soap please?"
+  },
+  {
+    "rn": "Nsimbiye  mu KININDO",
+    "en": "Up to KININDO"
   },
   {
     "rn": "nsumbazose",
@@ -2800,12 +2592,28 @@
     "en": "I don't mind doing the housework."
   },
   {
+    "rn": "Ntacobitwaye, nitwa Ciza",
+    "en": "Don't worry, my name is CIZA"
+  },
+  {
+    "rn": "Ntahiriza",
+    "en": "Give love to"
+  },
+  {
     "rn": "ntakibazo ndabikora",
     "en": "It's OK, I can do it. Or, Don't worry, I'll do it."
   },
   {
+    "rn": "Ntakigenda",
+    "en": "Nothing goes"
+  },
+  {
     "rn": "Ntakunda gukinjika kenshi",
     "en": "She doesn't like cooking very much."
+  },
+  {
+    "rn": "Ntangorane, nitwa NIMUBONA",
+    "en": "Sure, my name is NIMUBONA"
   },
   {
     "rn": "Ntashobora kwihanganira gukinjikira mu gikoni gicafuye",
@@ -2848,12 +2656,20 @@
     "en": "I feel a bit under the weather."
   },
   {
+    "rn": "Nyarukiye ku Nteganya bizoza kw'ibanki",
+    "en": "I'm dashing to the bank"
+  },
+  {
+    "rn": "Nyarukiye kw' Isoko",
+    "en": "I'm rushing to the market"
+  },
+  {
     "rn": "Nzoba nagiye ku kiyaga.",
     "en": "Well, I'd love to, but I'm already going out to the beach."
   },
   {
     "rn": "nzokoresha fotokopi nimba ubikeneye",
-    "en": "I'll do the photocopying, if you like. "
+    "en": "I'll do the photocopying, if you like."
   },
   {
     "rn": "obi",
@@ -2922,6 +2738,10 @@
   {
     "rn": "Turi mu mubabaro udasanzwe.",
     "en": "We're all in complete shock."
+  },
+  {
+    "rn": "Uba he?",
+    "en": "Where do you live?"
   },
   {
     "rn": "Ubona gute tubonanye kuwa3?",
@@ -3025,7 +2845,7 @@
   },
   {
     "rn": "Ubuzima bw'ibwifashe gute?",
-    "en": "How is life treating you? "
+    "en": "How is life treating you?"
   },
   {
     "rn": "ubwanwa",
@@ -3042,6 +2862,14 @@
   {
     "rn": "ubwoko",
     "en": "Ethnic"
+  },
+  {
+    "rn": "Ufise imyaka ingahe?",
+    "en": "How old are you?"
+  },
+  {
+    "rn": "Ugiye he?",
+    "en": "Where are you going to?"
   },
   {
     "rn": "Ugusaba gufashwa gukora ikintu",
@@ -3069,7 +2897,7 @@
   },
   {
     "rn": "Ujejwe iki?",
-    "en": "What are you in charge of? "
+    "en": "What are you in charge of?"
   },
   {
     "rn": "Ukeneye ko nitaba terefone",
@@ -3084,6 +2912,10 @@
     "en": "HOW TO EXPRESS SHOCK IN ENGLISH"
   },
   {
+    "rn": "uko batasha",
+    "en": "How to send greetings"
+  },
+  {
     "rn": "Uko bavuga ibijanye n'indwara",
     "en": "HOW TO TALK ABOUT ILLNESS"
   },
@@ -3092,12 +2924,20 @@
     "en": "How to make and accept invitations in English."
   },
   {
+    "rn": "Ukora iki mu buzima?",
+    "en": "What do you do in your life?"
+  },
+  {
     "rn": "Ukora iki?",
-    "en": "What is your business?"
+    "en": "What's your occupation?"
   },
   {
     "rn": "Ukubaza aho umuntu yavukiye, igihe yavukiyeko hamwe n'imyaka afise",
     "en": "Asking where someone was born, when he was born and about the age"
+  },
+  {
+    "rn": "Ukubaza ibijanye n'igikorwa",
+    "en": "Asking about occupation"
   },
   {
     "rn": "Ukubitiye he?",
@@ -3114,6 +2954,14 @@
   {
     "rn": "ukuguru kw'igikoko",
     "en": "A paw"
+  },
+  {
+    "rn": "ukunguruza abantu n'ibintu",
+    "en": "TRANSPORT"
+  },
+  {
+    "rn": "Ukuvuga ivyo ukunda n'ivyo udakunda",
+    "en": "TALKING ABOUT LIKES AND DISLIKES IN ENGLISH"
   },
   {
     "rn": "ukwakira",
@@ -3212,12 +3060,12 @@
     "en": "Blood group"
   },
   {
-    "rn": "umuhingamo",
-    "en": "Afternoon"
+    "rn": "Umuhamagaro wawe ni uwuhe?",
+    "en": "What is your calling?"
   },
   {
-    "rn": "Umuhoro",
-    "en": ""
+    "rn": "umuhingamo",
+    "en": "Afternoon"
   },
   {
     "rn": "umuhungu",
@@ -3649,11 +3497,35 @@
   },
   {
     "rn": "Urakomeye?",
-    "en": "Are you fit? "
+    "en": "Are you fit?"
   },
   {
     "rn": "urakoze cane",
     "en": "Thank you so much!"
+  },
+  {
+    "rn": "Urampere intasho umugenzi wanje BARAKA.",
+    "en": "Give my best regards to my friend BARAKA"
+  },
+  {
+    "rn": "Urandamukirize",
+    "en": "Say hello to"
+  },
+  {
+    "rn": "Urandamukirize Yohana",
+    "en": "Greetings to John"
+  },
+  {
+    "rn": "Urantahirize",
+    "en": "Give my best regards to"
+  },
+  {
+    "rn": "Urantahirize abavyeyi",
+    "en": "Give love to my parents"
+  },
+  {
+    "rn": "Urantahirize marume",
+    "en": "Say hello to my uncle"
   },
   {
     "rn": "Urantunga kuwa mbere ntivyokunda. Ntivyokunda ko tubonana kuwa gakabiri?",
@@ -3680,12 +3552,24 @@
     "en": "You're in a shop and the assistant gives you the wrong change"
   },
   {
+    "rn": "Uriko uja he?",
+    "en": "Where are departing?"
+  },
+  {
+    "rn": "Uriko unyarukira he?",
+    "en": "Where do you hurry up to?"
+  },
+  {
     "rn": "uriko uva he?",
     "en": "Where are you coming from"
   },
   {
     "rn": "Uriko wihutira he?",
     "en": "Where are dashing?"
+  },
+  {
+    "rn": "Uroye he?",
+    "en": "Where are you heading for?"
   },
   {
     "rn": "urubavu",
@@ -3796,8 +3680,12 @@
     "en": "You don't look very well."
   },
   {
+    "rn": "uturorero",
+    "en": "Examples given"
+  },
+  {
     "rn": "Uvuga amaki?",
-    "en": "How do you say? "
+    "en": "How do you say?"
   },
   {
     "rn": "Uvuye he?",
@@ -3868,6 +3756,10 @@
     "en": "Nailpolish"
   },
   {
+    "rn": "vuga izina ryawe",
+    "en": "Your name please!"
+  },
+  {
     "rn": "Vyari vyiza ariko mfise ibindi nzobandiko ndakora kuwa gatandatu.",
     "en": "That's very kind of you, but actually I'm doing something else on Saturday."
   },
@@ -3884,8 +3776,32 @@
     "en": "Everything goes well"
   },
   {
+    "rn": "Vyose vyanse,ntakigenda",
+    "en": "Everything goes wrong"
+  },
+  {
+    "rn": "Watse indaro he?",
+    "en": "Where do you hang out?"
+  },
+  {
+    "rn": "Wavukiye he?",
+    "en": "Where were you born?"
+  },
+  {
+    "rn": "Wavutse ryari?",
+    "en": "When were you born?"
+  },
+  {
+    "rn": "Werekeje he?",
+    "en": "Where are you aiming?"
+  },
+  {
+    "rn": "Wihutira he?",
+    "en": "Where are you in hurry to?"
+  },
+  {
     "rn": "Witwa nde?",
-    "en": "How are you called? "
+    "en": "How are you called?"
   },
   {
     "rn": "woba ufise akanya kuwa 17?",

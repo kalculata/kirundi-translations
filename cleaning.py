@@ -19,11 +19,18 @@ duplicates_deleted = 0
 # Create a dictionary to store unique translations
 unique_translations = {}
 
+# Create a list to store words with empty translations
+empty_translations_words = []
+
 # Iterate over sorted data and keep only unique translations
 for item in sorted_data:
-  rn = item["rn"]
+  rn = item["rn"].strip()
+  en = item["en"].strip()
+  if en == "":
+    empty_translations_words.append(rn)
+
   if rn not in unique_translations:
-    unique_translations[rn] = item["en"]
+    unique_translations[rn] = en
   else:
     duplicates_deleted += 1
 
@@ -36,3 +43,9 @@ with open(file, "w") as f:
 
 print("Number of duplicates deleted:", duplicates_deleted)
 print("✨ Ordered and cleaned ✨")
+
+# Print words with empty translations
+if empty_translations_words:
+  print("\nWords with empty translations:")
+  for word in empty_translations_words:
+    print("❓", word)
