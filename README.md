@@ -1,6 +1,6 @@
 # Kirundi Translations
 
-This repository contains scripts to clean Kirundi-English translation data stored in JSON format for research purposes. The goal is to create a translation model for Kirundi to English and vice versa at [@Kubwacu](https://github.com/kubwacu).
+Pairs of Kirundi to English translations curated for machine learning research purposes. The goal is to create a translation model for Kirundi to English and vice versa at [@Kubwacu](https://github.com/kubwacu).
 
 ## Translation Data Information
 
